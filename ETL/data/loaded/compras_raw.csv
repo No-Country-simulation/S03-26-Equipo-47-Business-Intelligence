@@ -1,0 +1,865 @@
+id_orden_compra,fecha_emision,fecha_pago,proveedor,categoria,monto_ars,condicion_pago,estado
+OC-5001,2018-01-01,2018-01-08,DistribuidoraTech SA,Smartphones,2557948.43,Contado,Pagado
+OC-5002,2018-01-01,2018-01-12,MegaComputo SRL,Computación,3313262.4,Contado,Pagado
+OC-5003,2018-01-01,2018-01-12,DistribuidoraTech SA,Tablets,1092553.78,30 días,Pagado
+OC-5004,2018-01-01,2018-01-07,ElectroImport SA,TV/Audio,2201386.9,30 días,Pagado
+OC-5005,2018-01-01,2018-01-11,AccesoriosTotal SRL,Accesorios,1060032.85,60 días,Pagado
+OC-5006,2018-01-01,2018-01-19,MegaComputo SRL,Periféricos,1275047.49,Contado,Pagado
+OC-5007,2018-01-01,2018-01-08,MegaComputo SRL,Almacenamiento,748119.1,Contado,Pagado
+OC-5008,2018-01-01,2018-01-13,NetSupply SA,Redes,613921.66,Contado,Pagado
+OC-5009,2018-01-01,2018-01-10,NetSupply SA,Seguridad,490384.67,Contado,Pagado
+OC-5010,2018-02-01,2018-02-09,DistribuidoraTech SA,Smartphones,2634856.42,Contado,Pagado
+OC-5011,2018-02-01,2018-02-07,MegaComputo SRL,Computación,2954767.49,60 días,Pagado
+OC-5012,2018-02-01,2018-02-17,DistribuidoraTech SA,Tablets,1092554.04,60 días,Pagado
+OC-5013,2018-02-01,2018-02-16,ElectroImport SA,TV/Audio,1940112.39,Contado,Pagado
+OC-5014,2018-02-01,2018-02-11,AccesoriosTotal SRL,Accesorios,958439.87,30 días,Pagado
+OC-5015,2018-02-01,2018-02-06,MegaComputo SRL,Periféricos,1357114.06,30 días,Pagado
+OC-5016,2018-02-01,2018-02-19,MegaComputo SRL,Almacenamiento,806976.45,60 días,Pagado
+OC-5017,2018-02-01,2018-02-13,NetSupply SA,Redes,702495.42,30 días,Pagado
+OC-5018,2018-02-01,2018-02-10,NetSupply SA,Seguridad,469987.52,30 días,Pagado
+OC-5019,2018-03-01,2018-03-09,DistribuidoraTech SA,Smartphones,2632720.12,Contado,Pagado
+OC-5020,2018-03-01,2018-03-10,MegaComputo SRL,Computación,3449757.03,60 días,Pagado
+OC-5021,2018-03-01,2018-03-09,DistribuidoraTech SA,Tablets,1378314.1,30 días,Pagado
+OC-5022,2018-03-01,2018-03-20,ElectroImport SA,TV/Audio,2040037.09,30 días,Pagado
+OC-5023,2018-03-01,2018-03-12,AccesoriosTotal SRL,Accesorios,1028533.33,30 días,Pagado
+OC-5024,2018-03-01,2018-03-11,MegaComputo SRL,Periféricos,1412849.41,Contado,Pagado
+OC-5025,2018-03-01,2018-03-05,MegaComputo SRL,Almacenamiento,913416.96,Contado,Pagado
+OC-5026,2018-03-01,2018-03-13,NetSupply SA,Redes,642310.21,Contado,Pagado
+OC-5027,2018-03-01,2018-03-15,NetSupply SA,Seguridad,557765.33,60 días,Pagado
+OC-5028,2018-04-01,2018-04-05,DistribuidoraTech SA,Smartphones,3492851.83,60 días,Pagado
+OC-5029,2018-04-01,2018-04-19,MegaComputo SRL,Computación,3476821.94,Contado,Pagado
+OC-5030,2018-04-01,2018-04-10,DistribuidoraTech SA,Tablets,1436971.95,30 días,Pagado
+OC-5031,2018-04-01,2018-04-05,ElectroImport SA,TV/Audio,2862587.69,30 días,Pagado
+OC-5032,2018-04-01,2018-04-11,AccesoriosTotal SRL,Accesorios,1242211.93,30 días,Pagado
+OC-5033,2018-04-01,2018-04-18,MegaComputo SRL,Periféricos,1769409.43,60 días,Pagado
+OC-5034,2018-04-01,2018-04-16,MegaComputo SRL,Almacenamiento,952331.18,60 días,Pagado
+OC-5035,2018-04-01,2018-04-11,NetSupply SA,Redes,733476.51,30 días,Pagado
+OC-5036,2018-04-01,2018-04-19,NetSupply SA,Seguridad,671196.88,30 días,Pagado
+OC-5037,2018-05-01,2018-05-09,DistribuidoraTech SA,Smartphones,4680014.33,30 días,Pagado
+OC-5038,2018-05-01,2018-05-11,MegaComputo SRL,Computación,4907776.85,60 días,Pagado
+OC-5039,2018-05-01,2018-05-20,DistribuidoraTech SA,Tablets,2563431.21,30 días,Pagado
+OC-5040,2018-05-01,2018-05-09,ElectroImport SA,TV/Audio,4070310.72,30 días,Pagado
+OC-5041,2018-05-01,2018-05-13,AccesoriosTotal SRL,Accesorios,1918855.5,Contado,Pagado
+OC-5042,2018-05-01,2018-05-13,MegaComputo SRL,Periféricos,2402157.28,30 días,Pagado
+OC-5043,2018-05-01,2018-05-07,MegaComputo SRL,Almacenamiento,1657676.36,60 días,Pagado
+OC-5044,2018-05-01,2018-05-14,NetSupply SA,Redes,1388716.3,60 días,Pagado
+OC-5045,2018-05-01,2018-05-18,NetSupply SA,Seguridad,941637.14,60 días,Pagado
+OC-5046,2018-06-01,2018-06-16,DistribuidoraTech SA,Smartphones,2984749.1,60 días,Pagado
+OC-5047,2018-06-01,2018-06-06,MegaComputo SRL,Computación,3120716.64,Contado,Pagado
+OC-5048,2018-06-01,2018-06-06,DistribuidoraTech SA,Tablets,1396101.02,Contado,Pagado
+OC-5049,2018-06-01,2018-06-18,ElectroImport SA,TV/Audio,2272120.6,Contado,Pagado
+OC-5050,2018-06-01,2018-06-15,AccesoriosTotal SRL,Accesorios,988438.81,60 días,Pagado
+OC-5051,2018-06-01,2018-06-13,MegaComputo SRL,Periféricos,1340861.63,30 días,Pagado
+OC-5052,2018-06-01,2018-06-20,MegaComputo SRL,Almacenamiento,949949.12,Contado,Pagado
+OC-5053,2018-06-01,2018-06-13,NetSupply SA,Redes,688636.54,60 días,Pagado
+OC-5054,2018-06-01,2018-06-18,NetSupply SA,Seguridad,621306.6,Contado,Pagado
+OC-5055,2018-07-01,2018-07-18,DistribuidoraTech SA,Smartphones,5056999.28,60 días,Pagado
+OC-5056,2018-07-01,2018-07-17,MegaComputo SRL,Computación,5094250.96,Contado,Pagado
+OC-5057,2018-07-01,2018-07-16,DistribuidoraTech SA,Tablets,2182593.4,30 días,Pagado
+OC-5058,2018-07-01,2018-07-10,ElectroImport SA,TV/Audio,3732292.82,60 días,Pagado
+OC-5059,2018-07-01,2018-07-17,AccesoriosTotal SRL,Accesorios,1904658.31,30 días,Pagado
+OC-5060,2018-07-01,2018-07-13,MegaComputo SRL,Periféricos,2104869.67,Contado,Pagado
+OC-5061,2018-07-01,2018-07-17,MegaComputo SRL,Almacenamiento,1459771.67,60 días,Pagado
+OC-5062,2018-07-01,2018-07-17,NetSupply SA,Redes,1170933.15,60 días,Pagado
+OC-5063,2018-07-01,2018-07-06,NetSupply SA,Seguridad,988226.96,Contado,Pagado
+OC-5064,2018-08-01,2018-08-18,DistribuidoraTech SA,Smartphones,2966592.53,Contado,Pagado
+OC-5065,2018-08-01,2018-08-18,MegaComputo SRL,Computación,3286708.48,30 días,Pagado
+OC-5066,2018-08-01,2018-08-14,DistribuidoraTech SA,Tablets,1222816.35,60 días,Pagado
+OC-5067,2018-08-01,2018-08-09,ElectroImport SA,TV/Audio,2159894.9,Contado,Pagado
+OC-5068,2018-08-01,2018-08-10,AccesoriosTotal SRL,Accesorios,1124822.42,60 días,Pagado
+OC-5069,2018-08-01,2018-08-18,MegaComputo SRL,Periféricos,1547844.82,60 días,Pagado
+OC-5070,2018-08-01,2018-08-11,MegaComputo SRL,Almacenamiento,818851.26,Contado,Pagado
+OC-5071,2018-08-01,2018-08-17,NetSupply SA,Redes,672692.17,30 días,Pagado
+OC-5072,2018-08-01,2018-08-11,NetSupply SA,Seguridad,519185.63,30 días,Pagado
+OC-5073,2018-09-01,2018-09-11,DistribuidoraTech SA,Smartphones,4335483.62,Contado,Pagado
+OC-5074,2018-09-01,2018-09-19,MegaComputo SRL,Computación,4476127.12,Contado,Pagado
+OC-5075,2018-09-01,2018-09-05,DistribuidoraTech SA,Tablets,1724026.1,Contado,Pagado
+OC-5076,2018-09-01,2018-09-09,ElectroImport SA,TV/Audio,3120562.21,Contado,Pagado
+OC-5077,2018-09-01,2018-09-08,AccesoriosTotal SRL,Accesorios,1755722.29,Contado,Pagado
+OC-5078,2018-09-01,2018-09-17,MegaComputo SRL,Periféricos,2107146.72,Contado,Pagado
+OC-5079,2018-09-01,2018-09-18,MegaComputo SRL,Almacenamiento,1182971.4,60 días,Pagado
+OC-5080,2018-09-01,2018-09-17,NetSupply SA,Redes,1089432.22,30 días,Pagado
+OC-5081,2018-09-01,2018-09-09,NetSupply SA,Seguridad,902252.16,Contado,Pagado
+OC-5082,2018-10-01,2018-10-18,DistribuidoraTech SA,Smartphones,4900960.72,30 días,Pagado
+OC-5083,2018-10-01,2018-10-20,MegaComputo SRL,Computación,5206898.23,60 días,Pagado
+OC-5084,2018-10-01,2018-10-16,DistribuidoraTech SA,Tablets,2376608.76,60 días,Pagado
+OC-5085,2018-10-01,2018-10-06,ElectroImport SA,TV/Audio,4119892.73,60 días,Pagado
+OC-5086,2018-10-01,2018-10-08,AccesoriosTotal SRL,Accesorios,1871932.51,Contado,Pagado
+OC-5087,2018-10-01,2018-10-17,MegaComputo SRL,Periféricos,2516249.8,60 días,Pagado
+OC-5088,2018-10-01,2018-10-10,MegaComputo SRL,Almacenamiento,1469736.94,Contado,Pagado
+OC-5089,2018-10-01,2018-10-10,NetSupply SA,Redes,1114427.38,30 días,Pagado
+OC-5090,2018-10-01,2018-10-12,NetSupply SA,Seguridad,1050547.66,30 días,Pagado
+OC-5091,2018-11-01,2018-11-06,DistribuidoraTech SA,Smartphones,4814751.19,60 días,Pagado
+OC-5092,2018-11-01,2018-11-05,MegaComputo SRL,Computación,5113525.22,30 días,Pagado
+OC-5093,2018-11-01,2018-11-20,DistribuidoraTech SA,Tablets,2005227.54,60 días,Pagado
+OC-5094,2018-11-01,2018-11-13,ElectroImport SA,TV/Audio,3650462.69,60 días,Pagado
+OC-5095,2018-11-01,2018-11-09,AccesoriosTotal SRL,Accesorios,1651415.29,30 días,Pagado
+OC-5096,2018-11-01,2018-11-08,MegaComputo SRL,Periféricos,2306980.11,30 días,Pagado
+OC-5097,2018-11-01,2018-11-14,MegaComputo SRL,Almacenamiento,1141321.5,Contado,Pagado
+OC-5098,2018-11-01,2018-11-08,NetSupply SA,Redes,1032874.88,Contado,Pagado
+OC-5099,2018-11-01,2018-11-14,NetSupply SA,Seguridad,678200.38,30 días,Pagado
+OC-5100,2018-12-01,2018-12-12,DistribuidoraTech SA,Smartphones,5118347.86,30 días,Pagado
+OC-5101,2018-12-01,2018-12-12,MegaComputo SRL,Computación,5904914.86,Contado,Pagado
+OC-5102,2018-12-01,2018-12-07,DistribuidoraTech SA,Tablets,2526257.06,60 días,Pagado
+OC-5103,2018-12-01,2018-12-09,ElectroImport SA,TV/Audio,3899390.09,60 días,Pagado
+OC-5104,2018-12-01,2018-12-18,AccesoriosTotal SRL,Accesorios,2020607.79,Contado,Pagado
+OC-5105,2018-12-01,2018-12-10,MegaComputo SRL,Periféricos,2476925.3,Contado,Pagado
+OC-5106,2018-12-01,2018-12-06,MegaComputo SRL,Almacenamiento,1703140.53,Contado,Pagado
+OC-5107,2018-12-01,2018-12-16,NetSupply SA,Redes,1272807.47,Contado,Pagado
+OC-5108,2018-12-01,2018-12-19,NetSupply SA,Seguridad,1139070.94,30 días,Pagado
+OC-5109,2019-01-01,2019-01-08,DistribuidoraTech SA,Smartphones,4820160.79,60 días,Pagado
+OC-5110,2019-01-01,2019-01-05,MegaComputo SRL,Computación,5112364.26,30 días,Pagado
+OC-5111,2019-01-01,2019-01-20,DistribuidoraTech SA,Tablets,1884750.43,Contado,Pagado
+OC-5112,2019-01-01,2019-01-17,ElectroImport SA,TV/Audio,3202829.81,Contado,Pagado
+OC-5113,2019-01-01,2019-01-08,AccesoriosTotal SRL,Accesorios,1765929.21,60 días,Pagado
+OC-5114,2019-01-01,2019-01-06,MegaComputo SRL,Periféricos,2208858.87,30 días,Pagado
+OC-5115,2019-01-01,2019-01-15,MegaComputo SRL,Almacenamiento,1192639.81,30 días,Pagado
+OC-5116,2019-01-01,2019-01-16,NetSupply SA,Redes,1190797.27,60 días,Pagado
+OC-5117,2019-01-01,2019-01-20,NetSupply SA,Seguridad,889605.45,30 días,Pagado
+OC-5118,2019-02-01,2019-02-16,DistribuidoraTech SA,Smartphones,4540796.68,Contado,Pagado
+OC-5119,2019-02-01,2019-02-14,MegaComputo SRL,Computación,5419024.24,60 días,Pagado
+OC-5120,2019-02-01,2019-02-19,DistribuidoraTech SA,Tablets,1830437.36,60 días,Pagado
+OC-5121,2019-02-01,2019-02-05,ElectroImport SA,TV/Audio,2891472.96,60 días,Pagado
+OC-5122,2019-02-01,2019-02-06,AccesoriosTotal SRL,Accesorios,1653453.58,30 días,Pagado
+OC-5123,2019-02-01,2019-02-19,MegaComputo SRL,Periféricos,2468607.22,Contado,Pagado
+OC-5124,2019-02-01,2019-02-13,MegaComputo SRL,Almacenamiento,1301972.45,60 días,Pagado
+OC-5125,2019-02-01,2019-02-19,NetSupply SA,Redes,1067797.02,Contado,Pagado
+OC-5126,2019-02-01,2019-02-16,NetSupply SA,Seguridad,831542.08,60 días,Pagado
+OC-5127,2019-03-01,2019-03-17,DistribuidoraTech SA,Smartphones,4609910.49,30 días,Pagado
+OC-5128,2019-03-01,2019-03-15,MegaComputo SRL,Computación,4841930.31,60 días,Pagado
+OC-5129,2019-03-01,2019-03-09,DistribuidoraTech SA,Tablets,1993843.76,60 días,Pagado
+OC-5130,2019-03-01,2019-03-20,ElectroImport SA,TV/Audio,3998666.32,30 días,Pagado
+OC-5131,2019-03-01,2019-03-09,AccesoriosTotal SRL,Accesorios,2227310.7,60 días,Pagado
+OC-5132,2019-03-01,2019-03-09,MegaComputo SRL,Periféricos,2150696.1,60 días,Pagado
+OC-5133,2019-03-01,2019-03-15,MegaComputo SRL,Almacenamiento,1324336.72,30 días,Pagado
+OC-5134,2019-03-01,2019-03-18,NetSupply SA,Redes,1101612.92,60 días,Pagado
+OC-5135,2019-03-01,2019-03-19,NetSupply SA,Seguridad,1039869.09,30 días,Pagado
+OC-5136,2019-04-01,2019-04-08,DistribuidoraTech SA,Smartphones,5776750.32,30 días,Pagado
+OC-5137,2019-04-01,2019-04-19,MegaComputo SRL,Computación,5867707.77,Contado,Pagado
+OC-5138,2019-04-01,2019-04-05,DistribuidoraTech SA,Tablets,2352321.34,30 días,Pagado
+OC-5139,2019-04-01,2019-04-08,ElectroImport SA,TV/Audio,4901687.22,Contado,Pagado
+OC-5140,2019-04-01,2019-04-16,AccesoriosTotal SRL,Accesorios,2185697.32,Contado,Pagado
+OC-5141,2019-04-01,2019-04-08,MegaComputo SRL,Periféricos,2714633.1,60 días,Pagado
+OC-5142,2019-04-01,2019-04-09,MegaComputo SRL,Almacenamiento,1351478.83,60 días,Pagado
+OC-5143,2019-04-01,2019-04-10,NetSupply SA,Redes,1448264.16,60 días,Pagado
+OC-5144,2019-04-01,2019-04-07,NetSupply SA,Seguridad,1088636.78,Contado,Pagado
+OC-5145,2019-05-01,2019-05-17,DistribuidoraTech SA,Smartphones,7385646.25,Contado,Pagado
+OC-5146,2019-05-01,2019-05-15,MegaComputo SRL,Computación,8121776.81,60 días,Pagado
+OC-5147,2019-05-01,2019-05-17,DistribuidoraTech SA,Tablets,3543230.51,60 días,Pagado
+OC-5148,2019-05-01,2019-05-13,ElectroImport SA,TV/Audio,4812102.67,30 días,Pagado
+OC-5149,2019-05-01,2019-05-05,AccesoriosTotal SRL,Accesorios,2648863.68,Contado,Pagado
+OC-5150,2019-05-01,2019-05-14,MegaComputo SRL,Periféricos,4235326.72,60 días,Pagado
+OC-5151,2019-05-01,2019-05-16,MegaComputo SRL,Almacenamiento,1981352.04,60 días,Pagado
+OC-5152,2019-05-01,2019-05-18,NetSupply SA,Redes,1719013.68,Contado,Pagado
+OC-5153,2019-05-01,2019-05-05,NetSupply SA,Seguridad,1611188.58,Contado,Pagado
+OC-5154,2019-06-01,2019-06-05,DistribuidoraTech SA,Smartphones,5210354.29,Contado,Pagado
+OC-5155,2019-06-01,2019-06-07,MegaComputo SRL,Computación,5735574.99,60 días,Pagado
+OC-5156,2019-06-01,2019-06-17,DistribuidoraTech SA,Tablets,2632427.35,Contado,Pagado
+OC-5157,2019-06-01,2019-06-05,ElectroImport SA,TV/Audio,3960690.91,Contado,Pagado
+OC-5158,2019-06-01,2019-06-09,AccesoriosTotal SRL,Accesorios,1986712.51,Contado,Pagado
+OC-5159,2019-06-01,2019-06-18,MegaComputo SRL,Periféricos,2752621.14,60 días,Pagado
+OC-5160,2019-06-01,2019-06-09,MegaComputo SRL,Almacenamiento,1576741.35,60 días,Pagado
+OC-5161,2019-06-01,2019-06-09,NetSupply SA,Redes,1404099.61,60 días,Pagado
+OC-5162,2019-06-01,2019-06-08,NetSupply SA,Seguridad,984377.66,Contado,Pagado
+OC-5163,2019-07-01,2019-07-11,DistribuidoraTech SA,Smartphones,6945931.15,30 días,Pagado
+OC-5164,2019-07-01,2019-07-16,MegaComputo SRL,Computación,7476737.64,Contado,Pagado
+OC-5165,2019-07-01,2019-07-14,DistribuidoraTech SA,Tablets,2980354.38,Contado,Pagado
+OC-5166,2019-07-01,2019-07-12,ElectroImport SA,TV/Audio,4908553.23,60 días,Pagado
+OC-5167,2019-07-01,2019-07-14,AccesoriosTotal SRL,Accesorios,2642749.45,30 días,Pagado
+OC-5168,2019-07-01,2019-07-14,MegaComputo SRL,Periféricos,3271133.57,Contado,Pagado
+OC-5169,2019-07-01,2019-07-11,MegaComputo SRL,Almacenamiento,2256700.28,Contado,Pagado
+OC-5170,2019-07-01,2019-07-14,NetSupply SA,Redes,1786809.37,60 días,Pagado
+OC-5171,2019-07-01,2019-07-13,NetSupply SA,Seguridad,1416008.77,Contado,Pagado
+OC-5172,2019-08-01,2019-08-15,DistribuidoraTech SA,Smartphones,4841633.18,60 días,Pagado
+OC-5173,2019-08-01,2019-08-17,MegaComputo SRL,Computación,5018878.08,30 días,Pagado
+OC-5174,2019-08-01,2019-08-18,DistribuidoraTech SA,Tablets,2250312.5,60 días,Pagado
+OC-5175,2019-08-01,2019-08-18,ElectroImport SA,TV/Audio,4376471.98,Contado,Pagado
+OC-5176,2019-08-01,2019-08-18,AccesoriosTotal SRL,Accesorios,1830302.03,30 días,Pagado
+OC-5177,2019-08-01,2019-08-09,MegaComputo SRL,Periféricos,2545768.58,30 días,Pagado
+OC-5178,2019-08-01,2019-08-08,MegaComputo SRL,Almacenamiento,1420507.47,30 días,Pagado
+OC-5179,2019-08-01,2019-08-13,NetSupply SA,Redes,1227752.3,60 días,Pagado
+OC-5180,2019-08-01,2019-08-18,NetSupply SA,Seguridad,970399.6,60 días,Pagado
+OC-5181,2019-09-01,2019-09-06,DistribuidoraTech SA,Smartphones,5713025.66,Contado,Pagado
+OC-5182,2019-09-01,2019-09-09,MegaComputo SRL,Computación,5990278.44,30 días,Pagado
+OC-5183,2019-09-01,2019-09-18,DistribuidoraTech SA,Tablets,2381681.93,Contado,Pagado
+OC-5184,2019-09-01,2019-09-20,ElectroImport SA,TV/Audio,3855136.05,60 días,Pagado
+OC-5185,2019-09-01,2019-09-20,AccesoriosTotal SRL,Accesorios,2244681.34,60 días,Pagado
+OC-5186,2019-09-01,2019-09-16,MegaComputo SRL,Periféricos,2891984.21,Contado,Pagado
+OC-5187,2019-09-01,2019-09-18,MegaComputo SRL,Almacenamiento,1662653.61,Contado,Pagado
+OC-5188,2019-09-01,2019-09-13,NetSupply SA,Redes,1370609.63,60 días,Pagado
+OC-5189,2019-09-01,2019-09-11,NetSupply SA,Seguridad,1234093.2,60 días,Pagado
+OC-5190,2019-10-01,2019-10-12,DistribuidoraTech SA,Smartphones,7568517.15,30 días,Pagado
+OC-5191,2019-10-01,2019-10-05,MegaComputo SRL,Computación,8001449.73,60 días,Pagado
+OC-5192,2019-10-01,2019-10-09,DistribuidoraTech SA,Tablets,3095611.62,30 días,Pagado
+OC-5193,2019-10-01,2019-10-17,ElectroImport SA,TV/Audio,5401396.75,60 días,Pagado
+OC-5194,2019-10-01,2019-10-14,AccesoriosTotal SRL,Accesorios,2454023.12,30 días,Pagado
+OC-5195,2019-10-01,2019-10-10,MegaComputo SRL,Periféricos,2839107.43,30 días,Pagado
+OC-5196,2019-10-01,2019-10-08,MegaComputo SRL,Almacenamiento,2230340.93,30 días,Pagado
+OC-5197,2019-10-01,2019-10-17,NetSupply SA,Redes,1690214.51,30 días,Pagado
+OC-5198,2019-10-01,2019-10-06,NetSupply SA,Seguridad,1703525.32,30 días,Pagado
+OC-5199,2019-11-01,2019-11-11,DistribuidoraTech SA,Smartphones,7102756.79,60 días,Pagado
+OC-5200,2019-11-01,2019-11-08,MegaComputo SRL,Computación,8475758.73,60 días,Pagado
+OC-5201,2019-11-01,2019-11-09,DistribuidoraTech SA,Tablets,3626959.59,Contado,Pagado
+OC-5202,2019-11-01,2019-11-19,ElectroImport SA,TV/Audio,5649288.16,Contado,Pagado
+OC-5203,2019-11-01,2019-11-17,AccesoriosTotal SRL,Accesorios,2916008.84,30 días,Pagado
+OC-5204,2019-11-01,2019-11-06,MegaComputo SRL,Periféricos,3667445.48,60 días,Pagado
+OC-5205,2019-11-01,2019-11-14,MegaComputo SRL,Almacenamiento,2162464.28,Contado,Pagado
+OC-5206,2019-11-01,2019-11-17,NetSupply SA,Redes,1922124.62,60 días,Pagado
+OC-5207,2019-11-01,2019-11-10,NetSupply SA,Seguridad,1496685.27,60 días,Pagado
+OC-5208,2019-12-01,2019-12-11,DistribuidoraTech SA,Smartphones,8219779.47,60 días,Pagado
+OC-5209,2019-12-01,2019-12-08,MegaComputo SRL,Computación,10896867.03,60 días,Pagado
+OC-5210,2019-12-01,2019-12-14,DistribuidoraTech SA,Tablets,4550997.24,30 días,Pagado
+OC-5211,2019-12-01,2019-12-05,ElectroImport SA,TV/Audio,7830165.11,Contado,Pagado
+OC-5212,2019-12-01,2019-12-09,AccesoriosTotal SRL,Accesorios,4445352.2,Contado,Pagado
+OC-5213,2019-12-01,2019-12-19,MegaComputo SRL,Periféricos,5046491.99,30 días,Pagado
+OC-5214,2019-12-01,2019-12-08,MegaComputo SRL,Almacenamiento,2951440.98,Contado,Pagado
+OC-5215,2019-12-01,2019-12-13,NetSupply SA,Redes,2633520.15,Contado,Pagado
+OC-5216,2019-12-01,2019-12-08,NetSupply SA,Seguridad,2320024.48,Contado,Pagado
+OC-5217,2020-01-01,2020-01-19,DistribuidoraTech SA,Smartphones,7805486.66,30 días,Pagado
+OC-5218,2020-01-01,2020-01-08,MegaComputo SRL,Computación,9417792.4,60 días,Pagado
+OC-5219,2020-01-01,2020-01-16,DistribuidoraTech SA,Tablets,4075933.45,30 días,Pagado
+OC-5220,2020-01-01,2020-01-06,ElectroImport SA,TV/Audio,6200210.58,Contado,Pagado
+OC-5221,2020-01-01,2020-01-05,AccesoriosTotal SRL,Accesorios,2862146.91,Contado,Pagado
+OC-5222,2020-01-01,2020-01-07,MegaComputo SRL,Periféricos,4086451.12,60 días,Pagado
+OC-5223,2020-01-01,2020-01-12,MegaComputo SRL,Almacenamiento,2624131.74,30 días,Pagado
+OC-5224,2020-01-01,2020-01-09,NetSupply SA,Redes,1928947.62,Contado,Pagado
+OC-5225,2020-01-01,2020-01-09,NetSupply SA,Seguridad,1717622.99,Contado,Pagado
+OC-5226,2020-02-01,2020-02-20,DistribuidoraTech SA,Smartphones,8570785.46,60 días,Pagado
+OC-5227,2020-02-01,2020-02-06,MegaComputo SRL,Computación,9923822.52,30 días,Pagado
+OC-5228,2020-02-01,2020-02-18,DistribuidoraTech SA,Tablets,4110974.76,60 días,Pagado
+OC-5229,2020-02-01,2020-02-14,ElectroImport SA,TV/Audio,7280832.17,Contado,Pagado
+OC-5230,2020-02-01,2020-02-19,AccesoriosTotal SRL,Accesorios,3428273.29,30 días,Pagado
+OC-5231,2020-02-01,2020-02-16,MegaComputo SRL,Periféricos,4478292.01,Contado,Pagado
+OC-5232,2020-02-01,2020-02-15,MegaComputo SRL,Almacenamiento,2326519.43,Contado,Pagado
+OC-5233,2020-02-01,2020-02-20,NetSupply SA,Redes,2428437.27,30 días,Pagado
+OC-5234,2020-02-01,2020-02-12,NetSupply SA,Seguridad,1846026.07,30 días,Pagado
+OC-5235,2020-03-01,2020-03-13,DistribuidoraTech SA,Smartphones,332994.25,Contado,Pagado
+OC-5236,2020-03-01,2020-03-10,MegaComputo SRL,Computación,333035.75,Contado,Pagado
+OC-5237,2020-03-01,2020-03-14,DistribuidoraTech SA,Tablets,117482.62,60 días,Pagado
+OC-5238,2020-03-01,2020-03-19,ElectroImport SA,TV/Audio,250181.13,60 días,Pagado
+OC-5239,2020-03-01,2020-03-20,AccesoriosTotal SRL,Accesorios,115515.56,60 días,Pagado
+OC-5240,2020-03-01,2020-03-14,MegaComputo SRL,Periféricos,165512.03,60 días,Pagado
+OC-5241,2020-03-01,2020-03-14,MegaComputo SRL,Almacenamiento,89933.73,Contado,Pagado
+OC-5242,2020-03-01,2020-03-11,NetSupply SA,Redes,88526.5,30 días,Pagado
+OC-5243,2020-03-01,2020-03-07,NetSupply SA,Seguridad,56626.06,60 días,Pagado
+OC-5244,2020-04-01,2020-04-07,DistribuidoraTech SA,Smartphones,214378.64,30 días,Pagado
+OC-5245,2020-04-01,2020-04-17,MegaComputo SRL,Computación,242335.11,Contado,Pagado
+OC-5246,2020-04-01,2020-04-08,DistribuidoraTech SA,Tablets,92106.47,60 días,Pagado
+OC-5247,2020-04-01,2020-04-18,ElectroImport SA,TV/Audio,150253.57,Contado,Pagado
+OC-5248,2020-04-01,2020-04-09,AccesoriosTotal SRL,Accesorios,82747.59,Contado,Pagado
+OC-5249,2020-04-01,2020-04-07,MegaComputo SRL,Periféricos,89821.91,30 días,Pagado
+OC-5250,2020-04-01,2020-04-18,MegaComputo SRL,Almacenamiento,59546.78,Contado,Pagado
+OC-5251,2020-04-01,2020-04-16,NetSupply SA,Redes,51810.2,60 días,Pagado
+OC-5252,2020-04-01,2020-04-06,NetSupply SA,Seguridad,45413.92,30 días,Pagado
+OC-5253,2020-05-01,2020-05-15,DistribuidoraTech SA,Smartphones,667594.02,60 días,Pagado
+OC-5254,2020-05-01,2020-05-19,MegaComputo SRL,Computación,695068.41,60 días,Pagado
+OC-5255,2020-05-01,2020-05-05,DistribuidoraTech SA,Tablets,282898.51,60 días,Pagado
+OC-5256,2020-05-01,2020-05-16,ElectroImport SA,TV/Audio,499366.56,30 días,Pagado
+OC-5257,2020-05-01,2020-05-10,AccesoriosTotal SRL,Accesorios,280410.17,Contado,Pagado
+OC-5258,2020-05-01,2020-05-18,MegaComputo SRL,Periféricos,287716.92,Contado,Pagado
+OC-5259,2020-05-01,2020-05-19,MegaComputo SRL,Almacenamiento,182624.25,60 días,Pagado
+OC-5260,2020-05-01,2020-05-11,NetSupply SA,Redes,143795.13,60 días,Pagado
+OC-5261,2020-05-01,2020-05-20,NetSupply SA,Seguridad,136716.04,Contado,Pagado
+OC-5262,2020-06-01,2020-06-18,DistribuidoraTech SA,Smartphones,3600056.57,Contado,Pagado
+OC-5263,2020-06-01,2020-06-15,MegaComputo SRL,Computación,3694363.12,Contado,Pagado
+OC-5264,2020-06-01,2020-06-19,DistribuidoraTech SA,Tablets,1519678.89,Contado,Pagado
+OC-5265,2020-06-01,2020-06-13,ElectroImport SA,TV/Audio,2460922.49,60 días,Pagado
+OC-5266,2020-06-01,2020-06-14,AccesoriosTotal SRL,Accesorios,1334555.55,30 días,Pagado
+OC-5267,2020-06-01,2020-06-08,MegaComputo SRL,Periféricos,1509074.7,Contado,Pagado
+OC-5268,2020-06-01,2020-06-12,MegaComputo SRL,Almacenamiento,919005.58,Contado,Pagado
+OC-5269,2020-06-01,2020-06-13,NetSupply SA,Redes,800349.56,30 días,Pagado
+OC-5270,2020-06-01,2020-06-17,NetSupply SA,Seguridad,644381.83,Contado,Pagado
+OC-5271,2020-07-01,2020-07-18,DistribuidoraTech SA,Smartphones,6148506.38,60 días,Pagado
+OC-5272,2020-07-01,2020-07-18,MegaComputo SRL,Computación,6325250.47,30 días,Pagado
+OC-5273,2020-07-01,2020-07-14,DistribuidoraTech SA,Tablets,2442269.06,60 días,Pagado
+OC-5274,2020-07-01,2020-07-11,ElectroImport SA,TV/Audio,4890283.44,60 días,Pagado
+OC-5275,2020-07-01,2020-07-07,AccesoriosTotal SRL,Accesorios,2564541.36,30 días,Pagado
+OC-5276,2020-07-01,2020-07-07,MegaComputo SRL,Periféricos,2693020.46,60 días,Pagado
+OC-5277,2020-07-01,2020-07-05,MegaComputo SRL,Almacenamiento,1662657.7,60 días,Pagado
+OC-5278,2020-07-01,2020-07-20,NetSupply SA,Redes,1211154.62,60 días,Pagado
+OC-5279,2020-07-01,2020-07-10,NetSupply SA,Seguridad,1089708.5,Contado,Pagado
+OC-5280,2020-08-01,2020-08-14,DistribuidoraTech SA,Smartphones,4944165.54,60 días,Pagado
+OC-5281,2020-08-01,2020-08-15,MegaComputo SRL,Computación,4882819.69,30 días,Pagado
+OC-5282,2020-08-01,2020-08-14,DistribuidoraTech SA,Tablets,2538747.97,Contado,Pagado
+OC-5283,2020-08-01,2020-08-06,ElectroImport SA,TV/Audio,4217805.34,Contado,Pagado
+OC-5284,2020-08-01,2020-08-13,AccesoriosTotal SRL,Accesorios,1945716.62,60 días,Pagado
+OC-5285,2020-08-01,2020-08-12,MegaComputo SRL,Periféricos,2231743.91,Contado,Pagado
+OC-5286,2020-08-01,2020-08-06,MegaComputo SRL,Almacenamiento,1491944.72,60 días,Pagado
+OC-5287,2020-08-01,2020-08-19,NetSupply SA,Redes,1236458.72,30 días,Pagado
+OC-5288,2020-08-01,2020-08-14,NetSupply SA,Seguridad,1036309.98,30 días,Pagado
+OC-5289,2020-09-01,2020-09-07,DistribuidoraTech SA,Smartphones,4883969.24,Contado,Pagado
+OC-5290,2020-09-01,2020-09-15,MegaComputo SRL,Computación,6457455.89,30 días,Pagado
+OC-5291,2020-09-01,2020-09-05,DistribuidoraTech SA,Tablets,2684983.09,60 días,Pagado
+OC-5292,2020-09-01,2020-09-12,ElectroImport SA,TV/Audio,4067390.88,60 días,Pagado
+OC-5293,2020-09-01,2020-09-19,AccesoriosTotal SRL,Accesorios,1962375.87,30 días,Pagado
+OC-5294,2020-09-01,2020-09-09,MegaComputo SRL,Periféricos,3068009.12,60 días,Pagado
+OC-5295,2020-09-01,2020-09-07,MegaComputo SRL,Almacenamiento,1682331.15,Contado,Pagado
+OC-5296,2020-09-01,2020-09-06,NetSupply SA,Redes,1491457.13,30 días,Pagado
+OC-5297,2020-09-01,2020-09-07,NetSupply SA,Seguridad,1145114.4,Contado,Pagado
+OC-5298,2020-10-01,2020-10-13,DistribuidoraTech SA,Smartphones,8518053.61,60 días,Pagado
+OC-5299,2020-10-01,2020-10-17,MegaComputo SRL,Computación,10217685.45,Contado,Pagado
+OC-5300,2020-10-01,2020-10-15,DistribuidoraTech SA,Tablets,4119916.21,Contado,Pagado
+OC-5301,2020-10-01,2020-10-07,ElectroImport SA,TV/Audio,7074101.36,Contado,Pagado
+OC-5302,2020-10-01,2020-10-06,AccesoriosTotal SRL,Accesorios,3555869.92,30 días,Pagado
+OC-5303,2020-10-01,2020-10-05,MegaComputo SRL,Periféricos,4140348.3,60 días,Pagado
+OC-5304,2020-10-01,2020-10-19,MegaComputo SRL,Almacenamiento,2687710.37,Contado,Pagado
+OC-5305,2020-10-01,2020-10-14,NetSupply SA,Redes,2411185.47,60 días,Pagado
+OC-5306,2020-10-01,2020-10-18,NetSupply SA,Seguridad,1856261.4,Contado,Pagado
+OC-5307,2020-11-01,2020-11-18,DistribuidoraTech SA,Smartphones,8077610.15,60 días,Pagado
+OC-5308,2020-11-01,2020-11-09,MegaComputo SRL,Computación,10828370.93,60 días,Pagado
+OC-5309,2020-11-01,2020-11-17,DistribuidoraTech SA,Tablets,4457896.7,30 días,Pagado
+OC-5310,2020-11-01,2020-11-19,ElectroImport SA,TV/Audio,8289194.64,Contado,Pagado
+OC-5311,2020-11-01,2020-11-15,AccesoriosTotal SRL,Accesorios,4176616.27,60 días,Pagado
+OC-5312,2020-11-01,2020-11-09,MegaComputo SRL,Periféricos,4938632.45,Contado,Pagado
+OC-5313,2020-11-01,2020-11-08,MegaComputo SRL,Almacenamiento,2567747.42,Contado,Pagado
+OC-5314,2020-11-01,2020-11-18,NetSupply SA,Redes,2353701.22,30 días,Pagado
+OC-5315,2020-11-01,2020-11-15,NetSupply SA,Seguridad,1779465.69,30 días,Pagado
+OC-5316,2020-12-01,2020-12-09,DistribuidoraTech SA,Smartphones,11590332.51,Contado,Pagado
+OC-5317,2020-12-01,2020-12-15,MegaComputo SRL,Computación,15632030.82,Contado,Pagado
+OC-5318,2020-12-01,2020-12-12,DistribuidoraTech SA,Tablets,5538642.76,Contado,Pagado
+OC-5319,2020-12-01,2020-12-17,ElectroImport SA,TV/Audio,11853468.42,30 días,Pagado
+OC-5320,2020-12-01,2020-12-08,AccesoriosTotal SRL,Accesorios,4955670.54,60 días,Pagado
+OC-5321,2020-12-01,2020-12-13,MegaComputo SRL,Periféricos,6026069.49,Contado,Pagado
+OC-5322,2020-12-01,2020-12-14,MegaComputo SRL,Almacenamiento,4019388.3,30 días,Pagado
+OC-5323,2020-12-01,2020-12-14,NetSupply SA,Redes,3175548.6,30 días,Pagado
+OC-5324,2020-12-01,2020-12-12,NetSupply SA,Seguridad,2613300.4,30 días,Pagado
+OC-5325,2021-01-01,2021-01-14,DistribuidoraTech SA,Smartphones,14054861.43,Contado,Pagado
+OC-5326,2021-01-01,2021-01-05,MegaComputo SRL,Computación,15460146.88,Contado,Pagado
+OC-5327,2021-01-01,2021-01-09,DistribuidoraTech SA,Tablets,6351046.49,30 días,Pagado
+OC-5328,2021-01-01,2021-01-20,ElectroImport SA,TV/Audio,10771036.43,Contado,Pagado
+OC-5329,2021-01-01,2021-01-12,AccesoriosTotal SRL,Accesorios,6329573.84,30 días,Pagado
+OC-5330,2021-01-01,2021-01-15,MegaComputo SRL,Periféricos,7465150.3,60 días,Pagado
+OC-5331,2021-01-01,2021-01-07,MegaComputo SRL,Almacenamiento,4460629.94,60 días,Pagado
+OC-5332,2021-01-01,2021-01-13,NetSupply SA,Redes,3867798.3,60 días,Pagado
+OC-5333,2021-01-01,2021-01-10,NetSupply SA,Seguridad,3021593.99,Contado,Pagado
+OC-5334,2021-02-01,2021-02-17,DistribuidoraTech SA,Smartphones,17520662.55,30 días,Pagado
+OC-5335,2021-02-01,2021-02-06,MegaComputo SRL,Computación,16874031.42,Contado,Pagado
+OC-5336,2021-02-01,2021-02-08,DistribuidoraTech SA,Tablets,5579612.8,60 días,Pagado
+OC-5337,2021-02-01,2021-02-19,ElectroImport SA,TV/Audio,11398193.25,Contado,Pagado
+OC-5338,2021-02-01,2021-02-10,AccesoriosTotal SRL,Accesorios,5490994.75,60 días,Pagado
+OC-5339,2021-02-01,2021-02-14,MegaComputo SRL,Periféricos,7694379.78,30 días,Pagado
+OC-5340,2021-02-01,2021-02-19,MegaComputo SRL,Almacenamiento,4302965.43,30 días,Pagado
+OC-5341,2021-02-01,2021-02-15,NetSupply SA,Redes,3857121.12,60 días,Pagado
+OC-5342,2021-02-01,2021-02-05,NetSupply SA,Seguridad,2804474.12,Contado,Pagado
+OC-5343,2021-03-01,2021-03-05,DistribuidoraTech SA,Smartphones,16901212.08,30 días,Pagado
+OC-5344,2021-03-01,2021-03-18,MegaComputo SRL,Computación,17535304.69,Contado,Pagado
+OC-5345,2021-03-01,2021-03-07,DistribuidoraTech SA,Tablets,7285892.52,60 días,Pagado
+OC-5346,2021-03-01,2021-03-09,ElectroImport SA,TV/Audio,13554639.79,30 días,Pagado
+OC-5347,2021-03-01,2021-03-20,AccesoriosTotal SRL,Accesorios,6897452.26,60 días,Pagado
+OC-5348,2021-03-01,2021-03-05,MegaComputo SRL,Periféricos,9272452.7,30 días,Pagado
+OC-5349,2021-03-01,2021-03-13,MegaComputo SRL,Almacenamiento,5444682.54,30 días,Pagado
+OC-5350,2021-03-01,2021-03-07,NetSupply SA,Redes,4474650.6,Contado,Pagado
+OC-5351,2021-03-01,2021-03-20,NetSupply SA,Seguridad,3443525.15,Contado,Pagado
+OC-5352,2021-04-01,2021-04-14,DistribuidoraTech SA,Smartphones,17469762.83,30 días,Pagado
+OC-5353,2021-04-01,2021-04-19,MegaComputo SRL,Computación,20992737.28,30 días,Pagado
+OC-5354,2021-04-01,2021-04-16,DistribuidoraTech SA,Tablets,8962260.07,Contado,Pagado
+OC-5355,2021-04-01,2021-04-06,ElectroImport SA,TV/Audio,15933634.81,60 días,Pagado
+OC-5356,2021-04-01,2021-04-11,AccesoriosTotal SRL,Accesorios,7281248.82,Contado,Pagado
+OC-5357,2021-04-01,2021-04-14,MegaComputo SRL,Periféricos,8839882.11,60 días,Pagado
+OC-5358,2021-04-01,2021-04-06,MegaComputo SRL,Almacenamiento,5799441.51,Contado,Pagado
+OC-5359,2021-04-01,2021-04-11,NetSupply SA,Redes,3659369.35,30 días,Pagado
+OC-5360,2021-04-01,2021-04-13,NetSupply SA,Seguridad,4100358.2,30 días,Pagado
+OC-5361,2021-05-01,2021-05-12,DistribuidoraTech SA,Smartphones,25349661.29,Contado,Pagado
+OC-5362,2021-05-01,2021-05-09,MegaComputo SRL,Computación,24820988.8,60 días,Pagado
+OC-5363,2021-05-01,2021-05-07,DistribuidoraTech SA,Tablets,10111644.94,30 días,Pagado
+OC-5364,2021-05-01,2021-05-17,ElectroImport SA,TV/Audio,21532518.07,30 días,Pagado
+OC-5365,2021-05-01,2021-05-07,AccesoriosTotal SRL,Accesorios,8468685.02,Contado,Pagado
+OC-5366,2021-05-01,2021-05-18,MegaComputo SRL,Periféricos,11299187.19,60 días,Pagado
+OC-5367,2021-05-01,2021-05-20,MegaComputo SRL,Almacenamiento,7895276.71,30 días,Pagado
+OC-5368,2021-05-01,2021-05-05,NetSupply SA,Redes,5275129.13,60 días,Pagado
+OC-5369,2021-05-01,2021-05-14,NetSupply SA,Seguridad,4676135.32,30 días,Pagado
+OC-5370,2021-06-01,2021-06-09,DistribuidoraTech SA,Smartphones,16431952.51,30 días,Pagado
+OC-5371,2021-06-01,2021-06-05,MegaComputo SRL,Computación,21464822.8,30 días,Pagado
+OC-5372,2021-06-01,2021-06-18,DistribuidoraTech SA,Tablets,7210934.71,30 días,Pagado
+OC-5373,2021-06-01,2021-06-12,ElectroImport SA,TV/Audio,11947016.22,30 días,Pagado
+OC-5374,2021-06-01,2021-06-13,AccesoriosTotal SRL,Accesorios,6830574.97,60 días,Pagado
+OC-5375,2021-06-01,2021-06-09,MegaComputo SRL,Periféricos,8012198.21,60 días,Pagado
+OC-5376,2021-06-01,2021-06-18,MegaComputo SRL,Almacenamiento,5265756.5,30 días,Pagado
+OC-5377,2021-06-01,2021-06-06,NetSupply SA,Redes,4333358.04,60 días,Pagado
+OC-5378,2021-06-01,2021-06-18,NetSupply SA,Seguridad,3036903.4,Contado,Pagado
+OC-5379,2021-07-01,2021-07-16,DistribuidoraTech SA,Smartphones,23229988.64,Contado,Pagado
+OC-5380,2021-07-01,2021-07-05,MegaComputo SRL,Computación,21186252.14,60 días,Pagado
+OC-5381,2021-07-01,2021-07-19,DistribuidoraTech SA,Tablets,8744959.89,60 días,Pagado
+OC-5382,2021-07-01,2021-07-19,ElectroImport SA,TV/Audio,16948261.85,60 días,Pagado
+OC-5383,2021-07-01,2021-07-05,AccesoriosTotal SRL,Accesorios,9157883.76,Contado,Pagado
+OC-5384,2021-07-01,2021-07-19,MegaComputo SRL,Periféricos,9083100.96,60 días,Pagado
+OC-5385,2021-07-01,2021-07-07,MegaComputo SRL,Almacenamiento,5850157.15,60 días,Pagado
+OC-5386,2021-07-01,2021-07-16,NetSupply SA,Redes,5449925.4,60 días,Pagado
+OC-5387,2021-07-01,2021-07-19,NetSupply SA,Seguridad,3864350.9,60 días,Pagado
+OC-5388,2021-08-01,2021-08-18,DistribuidoraTech SA,Smartphones,17700659.67,30 días,Pagado
+OC-5389,2021-08-01,2021-08-09,MegaComputo SRL,Computación,18592275.59,Contado,Pagado
+OC-5390,2021-08-01,2021-08-15,DistribuidoraTech SA,Tablets,8177660.68,30 días,Pagado
+OC-5391,2021-08-01,2021-08-08,ElectroImport SA,TV/Audio,12588387.56,Contado,Pagado
+OC-5392,2021-08-01,2021-08-15,AccesoriosTotal SRL,Accesorios,7169346.85,30 días,Pagado
+OC-5393,2021-08-01,2021-08-05,MegaComputo SRL,Periféricos,9079848.06,Contado,Pagado
+OC-5394,2021-08-01,2021-08-16,MegaComputo SRL,Almacenamiento,5529907.98,Contado,Pagado
+OC-5395,2021-08-01,2021-08-17,NetSupply SA,Redes,4186856.39,60 días,Pagado
+OC-5396,2021-08-01,2021-08-19,NetSupply SA,Seguridad,3901086.44,60 días,Pagado
+OC-5397,2021-09-01,2021-09-08,DistribuidoraTech SA,Smartphones,17810607.88,Contado,Pagado
+OC-5398,2021-09-01,2021-09-15,MegaComputo SRL,Computación,22296962.51,Contado,Pagado
+OC-5399,2021-09-01,2021-09-16,DistribuidoraTech SA,Tablets,11515907.99,30 días,Pagado
+OC-5400,2021-09-01,2021-09-11,ElectroImport SA,TV/Audio,17164186.05,60 días,Pagado
+OC-5401,2021-09-01,2021-09-16,AccesoriosTotal SRL,Accesorios,9332779.66,Contado,Pagado
+OC-5402,2021-09-01,2021-09-10,MegaComputo SRL,Periféricos,10865187.29,60 días,Pagado
+OC-5403,2021-09-01,2021-09-16,MegaComputo SRL,Almacenamiento,7314730.94,Contado,Pagado
+OC-5404,2021-09-01,2021-09-05,NetSupply SA,Redes,5269147.67,60 días,Pagado
+OC-5405,2021-09-01,2021-09-10,NetSupply SA,Seguridad,4357767.93,30 días,Pagado
+OC-5406,2021-10-01,2021-10-15,DistribuidoraTech SA,Smartphones,22825440.88,30 días,Pagado
+OC-5407,2021-10-01,2021-10-14,MegaComputo SRL,Computación,26343923.18,60 días,Pagado
+OC-5408,2021-10-01,2021-10-19,DistribuidoraTech SA,Tablets,8182817.52,Contado,Pagado
+OC-5409,2021-10-01,2021-10-08,ElectroImport SA,TV/Audio,17774007.37,Contado,Pagado
+OC-5410,2021-10-01,2021-10-07,AccesoriosTotal SRL,Accesorios,7950990.89,60 días,Pagado
+OC-5411,2021-10-01,2021-10-12,MegaComputo SRL,Periféricos,10619491.54,30 días,Pagado
+OC-5412,2021-10-01,2021-10-15,MegaComputo SRL,Almacenamiento,6125559.33,Contado,Pagado
+OC-5413,2021-10-01,2021-10-18,NetSupply SA,Redes,4376994.57,Contado,Pagado
+OC-5414,2021-10-01,2021-10-08,NetSupply SA,Seguridad,4627648.34,Contado,Pagado
+OC-5415,2021-11-01,2021-11-11,DistribuidoraTech SA,Smartphones,22301978.87,30 días,Pagado
+OC-5416,2021-11-01,2021-11-17,MegaComputo SRL,Computación,27257125.06,30 días,Pagado
+OC-5417,2021-11-01,2021-11-09,DistribuidoraTech SA,Tablets,11116730.25,30 días,Pagado
+OC-5418,2021-11-01,2021-11-06,ElectroImport SA,TV/Audio,18665717.45,30 días,Pagado
+OC-5419,2021-11-01,2021-11-09,AccesoriosTotal SRL,Accesorios,10476344.01,60 días,Pagado
+OC-5420,2021-11-01,2021-11-17,MegaComputo SRL,Periféricos,12094516.23,30 días,Pagado
+OC-5421,2021-11-01,2021-11-19,MegaComputo SRL,Almacenamiento,7047421.78,Contado,Pagado
+OC-5422,2021-11-01,2021-11-05,NetSupply SA,Redes,5504087.33,Contado,Pagado
+OC-5423,2021-11-01,2021-11-18,NetSupply SA,Seguridad,4614683.24,60 días,Pagado
+OC-5424,2021-12-01,2021-12-14,DistribuidoraTech SA,Smartphones,23032465.14,30 días,Pagado
+OC-5425,2021-12-01,2021-12-07,MegaComputo SRL,Computación,20588543.23,60 días,Pagado
+OC-5426,2021-12-01,2021-12-15,DistribuidoraTech SA,Tablets,11371510.65,60 días,Pagado
+OC-5427,2021-12-01,2021-12-15,ElectroImport SA,TV/Audio,17606601.1,Contado,Pagado
+OC-5428,2021-12-01,2021-12-16,AccesoriosTotal SRL,Accesorios,8293117.48,Contado,Pagado
+OC-5429,2021-12-01,2021-12-08,MegaComputo SRL,Periféricos,11669992.94,30 días,Pagado
+OC-5430,2021-12-01,2021-12-12,MegaComputo SRL,Almacenamiento,6460247.0,30 días,Pagado
+OC-5431,2021-12-01,2021-12-16,NetSupply SA,Redes,5966404.31,30 días,Pagado
+OC-5432,2021-12-01,2021-12-20,NetSupply SA,Seguridad,4077086.88,30 días,Pagado
+OC-5433,2022-01-01,2022-01-12,DistribuidoraTech SA,Smartphones,17074536.11,Contado,Pagado
+OC-5434,2022-01-01,2022-01-07,MegaComputo SRL,Computación,21369716.66,30 días,Pagado
+OC-5435,2022-01-01,2022-01-05,DistribuidoraTech SA,Tablets,9144273.82,Contado,Pagado
+OC-5436,2022-01-01,2022-01-12,ElectroImport SA,TV/Audio,15066510.07,30 días,Pagado
+OC-5437,2022-01-01,2022-01-14,AccesoriosTotal SRL,Accesorios,7554187.67,60 días,Pagado
+OC-5438,2022-01-01,2022-01-08,MegaComputo SRL,Periféricos,8652907.41,60 días,Pagado
+OC-5439,2022-01-01,2022-01-12,MegaComputo SRL,Almacenamiento,5333519.62,60 días,Pagado
+OC-5440,2022-01-01,2022-01-17,NetSupply SA,Redes,4392064.49,60 días,Pagado
+OC-5441,2022-01-01,2022-01-17,NetSupply SA,Seguridad,4092962.25,30 días,Pagado
+OC-5442,2022-02-01,2022-02-15,DistribuidoraTech SA,Smartphones,20010872.25,30 días,Pagado
+OC-5443,2022-02-01,2022-02-19,MegaComputo SRL,Computación,20632836.53,Contado,Pagado
+OC-5444,2022-02-01,2022-02-13,DistribuidoraTech SA,Tablets,9406912.83,Contado,Pagado
+OC-5445,2022-02-01,2022-02-13,ElectroImport SA,TV/Audio,15118400.91,60 días,Pagado
+OC-5446,2022-02-01,2022-02-14,AccesoriosTotal SRL,Accesorios,7884436.57,60 días,Pagado
+OC-5447,2022-02-01,2022-02-17,MegaComputo SRL,Periféricos,8846023.83,Contado,Pagado
+OC-5448,2022-02-01,2022-02-11,MegaComputo SRL,Almacenamiento,5334190.87,60 días,Pagado
+OC-5449,2022-02-01,2022-02-14,NetSupply SA,Redes,4445507.61,60 días,Pagado
+OC-5450,2022-02-01,2022-02-07,NetSupply SA,Seguridad,3331680.34,Contado,Pagado
+OC-5451,2022-03-01,2022-03-06,DistribuidoraTech SA,Smartphones,16787866.54,60 días,Pagado
+OC-5452,2022-03-01,2022-03-09,MegaComputo SRL,Computación,19645614.49,60 días,Pagado
+OC-5453,2022-03-01,2022-03-10,DistribuidoraTech SA,Tablets,7455479.74,Contado,Pagado
+OC-5454,2022-03-01,2022-03-14,ElectroImport SA,TV/Audio,14540860.76,60 días,Pagado
+OC-5455,2022-03-01,2022-03-12,AccesoriosTotal SRL,Accesorios,6548218.04,Contado,Pagado
+OC-5456,2022-03-01,2022-03-07,MegaComputo SRL,Periféricos,8153196.13,60 días,Pagado
+OC-5457,2022-03-01,2022-03-17,MegaComputo SRL,Almacenamiento,5225789.51,Contado,Pagado
+OC-5458,2022-03-01,2022-03-17,NetSupply SA,Redes,3639585.71,Contado,Pagado
+OC-5459,2022-03-01,2022-03-06,NetSupply SA,Seguridad,3780786.87,30 días,Pagado
+OC-5460,2022-04-01,2022-04-09,DistribuidoraTech SA,Smartphones,23300436.53,Contado,Pagado
+OC-5461,2022-04-01,2022-04-14,MegaComputo SRL,Computación,25843842.38,30 días,Pagado
+OC-5462,2022-04-01,2022-04-13,DistribuidoraTech SA,Tablets,10515120.72,60 días,Pagado
+OC-5463,2022-04-01,2022-04-08,ElectroImport SA,TV/Audio,17481705.06,60 días,Pagado
+OC-5464,2022-04-01,2022-04-06,AccesoriosTotal SRL,Accesorios,8994020.08,30 días,Pagado
+OC-5465,2022-04-01,2022-04-16,MegaComputo SRL,Periféricos,11371099.41,30 días,Pagado
+OC-5466,2022-04-01,2022-04-05,MegaComputo SRL,Almacenamiento,5848252.52,60 días,Pagado
+OC-5467,2022-04-01,2022-04-17,NetSupply SA,Redes,5602571.39,Contado,Pagado
+OC-5468,2022-04-01,2022-04-17,NetSupply SA,Seguridad,4277833.53,30 días,Pagado
+OC-5469,2022-05-01,2022-05-16,DistribuidoraTech SA,Smartphones,26064058.61,Contado,Pagado
+OC-5470,2022-05-01,2022-05-20,MegaComputo SRL,Computación,24596633.81,30 días,Pagado
+OC-5471,2022-05-01,2022-05-11,DistribuidoraTech SA,Tablets,10116176.07,Contado,Pagado
+OC-5472,2022-05-01,2022-05-18,ElectroImport SA,TV/Audio,16393228.68,60 días,Pagado
+OC-5473,2022-05-01,2022-05-14,AccesoriosTotal SRL,Accesorios,8799288.27,30 días,Pagado
+OC-5474,2022-05-01,2022-05-12,MegaComputo SRL,Periféricos,9433909.2,30 días,Pagado
+OC-5475,2022-05-01,2022-05-14,MegaComputo SRL,Almacenamiento,7825908.29,60 días,Pagado
+OC-5476,2022-05-01,2022-05-05,NetSupply SA,Redes,5942291.83,Contado,Pagado
+OC-5477,2022-05-01,2022-05-20,NetSupply SA,Seguridad,4408418.92,60 días,Pagado
+OC-5478,2022-06-01,2022-06-19,DistribuidoraTech SA,Smartphones,23730660.28,30 días,Pagado
+OC-5479,2022-06-01,2022-06-05,MegaComputo SRL,Computación,23163367.61,Contado,Pagado
+OC-5480,2022-06-01,2022-06-20,DistribuidoraTech SA,Tablets,10115682.03,Contado,Pagado
+OC-5481,2022-06-01,2022-06-05,ElectroImport SA,TV/Audio,16630405.83,Contado,Pagado
+OC-5482,2022-06-01,2022-06-18,AccesoriosTotal SRL,Accesorios,8006878.51,30 días,Pagado
+OC-5483,2022-06-01,2022-06-17,MegaComputo SRL,Periféricos,12102713.23,30 días,Pagado
+OC-5484,2022-06-01,2022-06-18,MegaComputo SRL,Almacenamiento,6785675.76,30 días,Pagado
+OC-5485,2022-06-01,2022-06-17,NetSupply SA,Redes,4913813.77,30 días,Pagado
+OC-5486,2022-06-01,2022-06-06,NetSupply SA,Seguridad,4260014.52,Contado,Pagado
+OC-5487,2022-07-01,2022-07-13,DistribuidoraTech SA,Smartphones,24112186.98,Contado,Pagado
+OC-5488,2022-07-01,2022-07-09,MegaComputo SRL,Computación,22625429.78,Contado,Pagado
+OC-5489,2022-07-01,2022-07-17,DistribuidoraTech SA,Tablets,10313432.66,Contado,Pagado
+OC-5490,2022-07-01,2022-07-05,ElectroImport SA,TV/Audio,16437301.18,30 días,Pagado
+OC-5491,2022-07-01,2022-07-14,AccesoriosTotal SRL,Accesorios,8903183.59,30 días,Pagado
+OC-5492,2022-07-01,2022-07-07,MegaComputo SRL,Periféricos,11374221.49,60 días,Pagado
+OC-5493,2022-07-01,2022-07-18,MegaComputo SRL,Almacenamiento,6203249.99,Contado,Pagado
+OC-5494,2022-07-01,2022-07-15,NetSupply SA,Redes,5399667.77,30 días,Pagado
+OC-5495,2022-07-01,2022-07-07,NetSupply SA,Seguridad,4474117.09,30 días,Pagado
+OC-5496,2022-08-01,2022-08-15,DistribuidoraTech SA,Smartphones,20851598.69,Contado,Pagado
+OC-5497,2022-08-01,2022-08-09,MegaComputo SRL,Computación,23625761.97,Contado,Pagado
+OC-5498,2022-08-01,2022-08-19,DistribuidoraTech SA,Tablets,9087661.81,60 días,Pagado
+OC-5499,2022-08-01,2022-08-20,ElectroImport SA,TV/Audio,17621313.57,60 días,Pagado
+OC-5500,2022-08-01,2022-08-16,AccesoriosTotal SRL,Accesorios,9489726.62,60 días,Pagado
+OC-5501,2022-08-01,2022-08-15,MegaComputo SRL,Periféricos,9905306.11,Contado,Pagado
+OC-5502,2022-08-01,2022-08-13,MegaComputo SRL,Almacenamiento,6183127.64,Contado,Pagado
+OC-5503,2022-08-01,2022-08-13,NetSupply SA,Redes,4568017.38,60 días,Pagado
+OC-5504,2022-08-01,2022-08-14,NetSupply SA,Seguridad,4547641.69,60 días,Pagado
+OC-5505,2022-09-01,2022-09-10,DistribuidoraTech SA,Smartphones,18471734.91,30 días,Pagado
+OC-5506,2022-09-01,2022-09-11,MegaComputo SRL,Computación,24236373.63,60 días,Pagado
+OC-5507,2022-09-01,2022-09-14,DistribuidoraTech SA,Tablets,9966843.59,30 días,Pagado
+OC-5508,2022-09-01,2022-09-16,ElectroImport SA,TV/Audio,18178951.81,Contado,Pagado
+OC-5509,2022-09-01,2022-09-14,AccesoriosTotal SRL,Accesorios,8722703.55,Contado,Pagado
+OC-5510,2022-09-01,2022-09-12,MegaComputo SRL,Periféricos,9312221.85,Contado,Pagado
+OC-5511,2022-09-01,2022-09-11,MegaComputo SRL,Almacenamiento,6287283.44,60 días,Pagado
+OC-5512,2022-09-01,2022-09-18,NetSupply SA,Redes,5378441.05,30 días,Pagado
+OC-5513,2022-09-01,2022-09-12,NetSupply SA,Seguridad,4416919.32,60 días,Pagado
+OC-5514,2022-10-01,2022-10-20,DistribuidoraTech SA,Smartphones,28600747.87,Contado,Pagado
+OC-5515,2022-10-01,2022-10-08,MegaComputo SRL,Computación,29058654.81,30 días,Pagado
+OC-5516,2022-10-01,2022-10-15,DistribuidoraTech SA,Tablets,12201617.26,60 días,Pagado
+OC-5517,2022-10-01,2022-10-09,ElectroImport SA,TV/Audio,21708863.14,Contado,Pagado
+OC-5518,2022-10-01,2022-10-14,AccesoriosTotal SRL,Accesorios,9832566.28,60 días,Pagado
+OC-5519,2022-10-01,2022-10-14,MegaComputo SRL,Periféricos,12618300.43,60 días,Pagado
+OC-5520,2022-10-01,2022-10-15,MegaComputo SRL,Almacenamiento,8158279.95,30 días,Pagado
+OC-5521,2022-10-01,2022-10-15,NetSupply SA,Redes,6379509.3,30 días,Pagado
+OC-5522,2022-10-01,2022-10-17,NetSupply SA,Seguridad,4830260.49,60 días,Pagado
+OC-5523,2022-11-01,2022-11-18,DistribuidoraTech SA,Smartphones,25614240.89,30 días,Pagado
+OC-5524,2022-11-01,2022-11-16,MegaComputo SRL,Computación,33856925.06,30 días,Pagado
+OC-5525,2022-11-01,2022-11-13,DistribuidoraTech SA,Tablets,13493279.19,60 días,Pagado
+OC-5526,2022-11-01,2022-11-10,ElectroImport SA,TV/Audio,23602536.8,60 días,Pagado
+OC-5527,2022-11-01,2022-11-18,AccesoriosTotal SRL,Accesorios,11357902.63,30 días,Pagado
+OC-5528,2022-11-01,2022-11-13,MegaComputo SRL,Periféricos,13900199.68,Contado,Pagado
+OC-5529,2022-11-01,2022-11-05,MegaComputo SRL,Almacenamiento,7336378.68,Contado,Pagado
+OC-5530,2022-11-01,2022-11-05,NetSupply SA,Redes,7635721.3,60 días,Pagado
+OC-5531,2022-11-01,2022-11-10,NetSupply SA,Seguridad,5641704.27,30 días,Pagado
+OC-5532,2022-12-01,2022-12-20,DistribuidoraTech SA,Smartphones,30005877.81,30 días,Pagado
+OC-5533,2022-12-01,2022-12-16,MegaComputo SRL,Computación,29084030.15,60 días,Pagado
+OC-5534,2022-12-01,2022-12-11,DistribuidoraTech SA,Tablets,14558453.32,Contado,Pagado
+OC-5535,2022-12-01,2022-12-20,ElectroImport SA,TV/Audio,23210587.99,Contado,Pagado
+OC-5536,2022-12-01,2022-12-10,AccesoriosTotal SRL,Accesorios,11323221.48,Contado,Pagado
+OC-5537,2022-12-01,2022-12-13,MegaComputo SRL,Periféricos,13126706.65,60 días,Pagado
+OC-5538,2022-12-01,2022-12-14,MegaComputo SRL,Almacenamiento,8688746.71,30 días,Pagado
+OC-5539,2022-12-01,2022-12-06,NetSupply SA,Redes,7498609.84,30 días,Pagado
+OC-5540,2022-12-01,2022-12-10,NetSupply SA,Seguridad,4691985.94,60 días,Pagado
+OC-5541,2023-01-01,2023-01-11,DistribuidoraTech SA,Smartphones,38262444.08,60 días,Pagado
+OC-5542,2023-01-01,2023-01-12,MegaComputo SRL,Computación,42143657.97,Contado,Pagado
+OC-5543,2023-01-01,2023-01-09,DistribuidoraTech SA,Tablets,18034361.46,60 días,Pagado
+OC-5544,2023-01-01,2023-01-09,ElectroImport SA,TV/Audio,26791277.43,30 días,Pagado
+OC-5545,2023-01-01,2023-01-14,AccesoriosTotal SRL,Accesorios,16462215.22,60 días,Pagado
+OC-5546,2023-01-01,2023-01-10,MegaComputo SRL,Periféricos,20479837.5,60 días,Pagado
+OC-5547,2023-01-01,2023-01-13,MegaComputo SRL,Almacenamiento,12323207.73,60 días,Pagado
+OC-5548,2023-01-01,2023-01-14,NetSupply SA,Redes,9158141.8,30 días,Pagado
+OC-5549,2023-01-01,2023-01-06,NetSupply SA,Seguridad,8430498.49,60 días,Pagado
+OC-5550,2023-02-01,2023-02-13,DistribuidoraTech SA,Smartphones,31736088.74,30 días,Pagado
+OC-5551,2023-02-01,2023-02-08,MegaComputo SRL,Computación,31024954.0,60 días,Pagado
+OC-5552,2023-02-01,2023-02-09,DistribuidoraTech SA,Tablets,15654435.43,Contado,Pagado
+OC-5553,2023-02-01,2023-02-08,ElectroImport SA,TV/Audio,27021955.54,30 días,Pagado
+OC-5554,2023-02-01,2023-02-15,AccesoriosTotal SRL,Accesorios,14902594.43,Contado,Pagado
+OC-5555,2023-02-01,2023-02-09,MegaComputo SRL,Periféricos,15567431.4,Contado,Pagado
+OC-5556,2023-02-01,2023-02-17,MegaComputo SRL,Almacenamiento,9901544.45,30 días,Pagado
+OC-5557,2023-02-01,2023-02-10,NetSupply SA,Redes,8190034.42,Contado,Pagado
+OC-5558,2023-02-01,2023-02-05,NetSupply SA,Seguridad,7224982.18,Contado,Pagado
+OC-5559,2023-03-01,2023-03-18,DistribuidoraTech SA,Smartphones,34820050.86,Contado,Pagado
+OC-5560,2023-03-01,2023-03-10,MegaComputo SRL,Computación,46212586.19,60 días,Pagado
+OC-5561,2023-03-01,2023-03-05,DistribuidoraTech SA,Tablets,16148012.19,Contado,Pagado
+OC-5562,2023-03-01,2023-03-08,ElectroImport SA,TV/Audio,29421823.8,Contado,Pagado
+OC-5563,2023-03-01,2023-03-18,AccesoriosTotal SRL,Accesorios,15302147.22,Contado,Pagado
+OC-5564,2023-03-01,2023-03-09,MegaComputo SRL,Periféricos,17516410.57,30 días,Pagado
+OC-5565,2023-03-01,2023-03-07,MegaComputo SRL,Almacenamiento,11796577.58,30 días,Pagado
+OC-5566,2023-03-01,2023-03-06,NetSupply SA,Redes,9732292.24,Contado,Pagado
+OC-5567,2023-03-01,2023-03-15,NetSupply SA,Seguridad,7247519.33,30 días,Pagado
+OC-5568,2023-04-01,2023-04-08,DistribuidoraTech SA,Smartphones,45237805.45,60 días,Pagado
+OC-5569,2023-04-01,2023-04-18,MegaComputo SRL,Computación,49870098.98,Contado,Pagado
+OC-5570,2023-04-01,2023-04-09,DistribuidoraTech SA,Tablets,20812509.12,60 días,Pagado
+OC-5571,2023-04-01,2023-04-05,ElectroImport SA,TV/Audio,38500305.65,30 días,Pagado
+OC-5572,2023-04-01,2023-04-18,AccesoriosTotal SRL,Accesorios,18281840.9,Contado,Pagado
+OC-5573,2023-04-01,2023-04-19,MegaComputo SRL,Periféricos,22972175.67,60 días,Pagado
+OC-5574,2023-04-01,2023-04-07,MegaComputo SRL,Almacenamiento,12097513.08,60 días,Pagado
+OC-5575,2023-04-01,2023-04-09,NetSupply SA,Redes,9700657.85,30 días,Pagado
+OC-5576,2023-04-01,2023-04-18,NetSupply SA,Seguridad,8454540.19,Contado,Pagado
+OC-5577,2023-05-01,2023-05-11,DistribuidoraTech SA,Smartphones,60343078.28,60 días,Pagado
+OC-5578,2023-05-01,2023-05-17,MegaComputo SRL,Computación,66831661.68,60 días,Pagado
+OC-5579,2023-05-01,2023-05-09,DistribuidoraTech SA,Tablets,21114724.9,60 días,Pagado
+OC-5580,2023-05-01,2023-05-17,ElectroImport SA,TV/Audio,47538427.94,60 días,Pagado
+OC-5581,2023-05-01,2023-05-12,AccesoriosTotal SRL,Accesorios,25639909.86,60 días,Pagado
+OC-5582,2023-05-01,2023-05-06,MegaComputo SRL,Periféricos,34716272.72,Contado,Pagado
+OC-5583,2023-05-01,2023-05-06,MegaComputo SRL,Almacenamiento,19674788.0,30 días,Pagado
+OC-5584,2023-05-01,2023-05-16,NetSupply SA,Redes,14087458.48,Contado,Pagado
+OC-5585,2023-05-01,2023-05-13,NetSupply SA,Seguridad,11214997.0,Contado,Pagado
+OC-5586,2023-06-01,2023-06-19,DistribuidoraTech SA,Smartphones,42980804.8,Contado,Pagado
+OC-5587,2023-06-01,2023-06-11,MegaComputo SRL,Computación,48433067.74,60 días,Pagado
+OC-5588,2023-06-01,2023-06-18,DistribuidoraTech SA,Tablets,20281662.16,Contado,Pagado
+OC-5589,2023-06-01,2023-06-19,ElectroImport SA,TV/Audio,34664611.45,Contado,Pagado
+OC-5590,2023-06-01,2023-06-18,AccesoriosTotal SRL,Accesorios,14920282.6,60 días,Pagado
+OC-5591,2023-06-01,2023-06-07,MegaComputo SRL,Periféricos,18374861.58,30 días,Pagado
+OC-5592,2023-06-01,2023-06-05,MegaComputo SRL,Almacenamiento,13854262.37,Contado,Pagado
+OC-5593,2023-06-01,2023-06-05,NetSupply SA,Redes,10201793.42,60 días,Pagado
+OC-5594,2023-06-01,2023-06-08,NetSupply SA,Seguridad,7629825.76,60 días,Pagado
+OC-5595,2023-07-01,2023-07-12,DistribuidoraTech SA,Smartphones,41624601.16,Contado,Pagado
+OC-5596,2023-07-01,2023-07-19,MegaComputo SRL,Computación,48160961.62,60 días,Pagado
+OC-5597,2023-07-01,2023-07-13,DistribuidoraTech SA,Tablets,23223194.64,Contado,Pagado
+OC-5598,2023-07-01,2023-07-19,ElectroImport SA,TV/Audio,35903564.67,30 días,Pagado
+OC-5599,2023-07-01,2023-07-09,AccesoriosTotal SRL,Accesorios,19367401.04,60 días,Pagado
+OC-5600,2023-07-01,2023-07-16,MegaComputo SRL,Periféricos,23525528.3,Contado,Pagado
+OC-5601,2023-07-01,2023-07-10,MegaComputo SRL,Almacenamiento,13667345.26,30 días,Pagado
+OC-5602,2023-07-01,2023-07-05,NetSupply SA,Redes,9635537.68,60 días,Pagado
+OC-5603,2023-07-01,2023-07-09,NetSupply SA,Seguridad,9767049.73,Contado,Pagado
+OC-5604,2023-08-01,2023-08-15,DistribuidoraTech SA,Smartphones,42249838.89,Contado,Pagado
+OC-5605,2023-08-01,2023-08-10,MegaComputo SRL,Computación,42866102.01,30 días,Pagado
+OC-5606,2023-08-01,2023-08-10,DistribuidoraTech SA,Tablets,17227838.03,30 días,Pagado
+OC-5607,2023-08-01,2023-08-12,ElectroImport SA,TV/Audio,37629054.06,Contado,Pagado
+OC-5608,2023-08-01,2023-08-10,AccesoriosTotal SRL,Accesorios,19126937.7,60 días,Pagado
+OC-5609,2023-08-01,2023-08-08,MegaComputo SRL,Periféricos,18354253.77,60 días,Pagado
+OC-5610,2023-08-01,2023-08-15,MegaComputo SRL,Almacenamiento,12913119.83,30 días,Pagado
+OC-5611,2023-08-01,2023-08-11,NetSupply SA,Redes,11556910.77,Contado,Pagado
+OC-5612,2023-08-01,2023-08-20,NetSupply SA,Seguridad,9095408.73,Contado,Pagado
+OC-5613,2023-09-01,2023-09-07,DistribuidoraTech SA,Smartphones,36301617.99,Contado,Pagado
+OC-5614,2023-09-01,2023-09-06,MegaComputo SRL,Computación,41365213.8,30 días,Pagado
+OC-5615,2023-09-01,2023-09-13,DistribuidoraTech SA,Tablets,18327149.51,Contado,Pagado
+OC-5616,2023-09-01,2023-09-16,ElectroImport SA,TV/Audio,31346607.12,30 días,Pagado
+OC-5617,2023-09-01,2023-09-09,AccesoriosTotal SRL,Accesorios,15927777.94,60 días,Pagado
+OC-5618,2023-09-01,2023-09-16,MegaComputo SRL,Periféricos,18268220.06,30 días,Pagado
+OC-5619,2023-09-01,2023-09-19,MegaComputo SRL,Almacenamiento,10201659.43,30 días,Pagado
+OC-5620,2023-09-01,2023-09-15,NetSupply SA,Redes,9648822.91,Contado,Pagado
+OC-5621,2023-09-01,2023-09-14,NetSupply SA,Seguridad,8056693.02,60 días,Pagado
+OC-5622,2023-10-01,2023-10-16,DistribuidoraTech SA,Smartphones,51776379.68,30 días,Pagado
+OC-5623,2023-10-01,2023-10-14,MegaComputo SRL,Computación,61342001.38,60 días,Pagado
+OC-5624,2023-10-01,2023-10-20,DistribuidoraTech SA,Tablets,24629187.89,30 días,Pagado
+OC-5625,2023-10-01,2023-10-11,ElectroImport SA,TV/Audio,37970587.58,Contado,Pagado
+OC-5626,2023-10-01,2023-10-11,AccesoriosTotal SRL,Accesorios,21621099.0,60 días,Pagado
+OC-5627,2023-10-01,2023-10-14,MegaComputo SRL,Periféricos,27753641.87,30 días,Pagado
+OC-5628,2023-10-01,2023-10-08,MegaComputo SRL,Almacenamiento,15812546.38,30 días,Pagado
+OC-5629,2023-10-01,2023-10-08,NetSupply SA,Redes,14882164.85,30 días,Pagado
+OC-5630,2023-10-01,2023-10-18,NetSupply SA,Seguridad,9857237.13,30 días,Pagado
+OC-5631,2023-11-01,2023-11-18,DistribuidoraTech SA,Smartphones,76313516.51,Contado,Pagado
+OC-5632,2023-11-01,2023-11-12,MegaComputo SRL,Computación,71597830.81,Contado,Pagado
+OC-5633,2023-11-01,2023-11-08,DistribuidoraTech SA,Tablets,28849006.96,Contado,Pagado
+OC-5634,2023-11-01,2023-11-06,ElectroImport SA,TV/Audio,55900435.45,60 días,Pagado
+OC-5635,2023-11-01,2023-11-18,AccesoriosTotal SRL,Accesorios,22926938.05,60 días,Pagado
+OC-5636,2023-11-01,2023-11-17,MegaComputo SRL,Periféricos,38484143.0,30 días,Pagado
+OC-5637,2023-11-01,2023-11-13,MegaComputo SRL,Almacenamiento,18466567.97,30 días,Pagado
+OC-5638,2023-11-01,2023-11-12,NetSupply SA,Redes,17432241.23,30 días,Pagado
+OC-5639,2023-11-01,2023-11-05,NetSupply SA,Seguridad,13024057.28,Contado,Pagado
+OC-5640,2023-12-01,2023-12-05,DistribuidoraTech SA,Smartphones,58497123.96,Contado,Pagado
+OC-5641,2023-12-01,2023-12-14,MegaComputo SRL,Computación,75759564.71,60 días,Pagado
+OC-5642,2023-12-01,2023-12-11,DistribuidoraTech SA,Tablets,29870574.08,30 días,Pagado
+OC-5643,2023-12-01,2023-12-16,ElectroImport SA,TV/Audio,63379568.96,60 días,Pagado
+OC-5644,2023-12-01,2023-12-10,AccesoriosTotal SRL,Accesorios,26262518.1,60 días,Pagado
+OC-5645,2023-12-01,2023-12-08,MegaComputo SRL,Periféricos,30227845.44,60 días,Pagado
+OC-5646,2023-12-01,2023-12-12,MegaComputo SRL,Almacenamiento,16269782.43,Contado,Pagado
+OC-5647,2023-12-01,2023-12-06,NetSupply SA,Redes,14973390.93,30 días,Pagado
+OC-5648,2023-12-01,2023-12-17,NetSupply SA,Seguridad,12997800.11,60 días,Pagado
+OC-5649,2024-01-01,2024-01-10,DistribuidoraTech SA,Smartphones,116021187.14,60 días,Pagado
+OC-5650,2024-01-01,2024-01-16,MegaComputo SRL,Computación,139590157.93,30 días,Pagado
+OC-5651,2024-01-01,2024-01-16,DistribuidoraTech SA,Tablets,55379420.5,30 días,Pagado
+OC-5652,2024-01-01,2024-01-19,ElectroImport SA,TV/Audio,86131684.25,Contado,Pagado
+OC-5653,2024-01-01,2024-01-09,AccesoriosTotal SRL,Accesorios,46272910.57,60 días,Pagado
+OC-5654,2024-01-01,2024-01-07,MegaComputo SRL,Periféricos,55658005.02,30 días,Pagado
+OC-5655,2024-01-01,2024-01-19,MegaComputo SRL,Almacenamiento,36868857.54,30 días,Pagado
+OC-5656,2024-01-01,2024-01-13,NetSupply SA,Redes,30930699.59,Contado,Pagado
+OC-5657,2024-01-01,2024-01-17,NetSupply SA,Seguridad,22768978.95,60 días,Pagado
+OC-5658,2024-02-01,2024-02-18,DistribuidoraTech SA,Smartphones,103158757.58,Contado,Pagado
+OC-5659,2024-02-01,2024-02-11,MegaComputo SRL,Computación,159993158.72,Contado,Pagado
+OC-5660,2024-02-01,2024-02-14,DistribuidoraTech SA,Tablets,54809743.99,Contado,Pagado
+OC-5661,2024-02-01,2024-02-12,ElectroImport SA,TV/Audio,97421966.13,Contado,Pagado
+OC-5662,2024-02-01,2024-02-11,AccesoriosTotal SRL,Accesorios,40372385.47,30 días,Pagado
+OC-5663,2024-02-01,2024-02-19,MegaComputo SRL,Periféricos,62806169.39,Contado,Pagado
+OC-5664,2024-02-01,2024-02-20,MegaComputo SRL,Almacenamiento,38651771.54,Contado,Pagado
+OC-5665,2024-02-01,2024-02-18,NetSupply SA,Redes,30487042.64,Contado,Pagado
+OC-5666,2024-02-01,2024-02-12,NetSupply SA,Seguridad,24001768.86,30 días,Pagado
+OC-5667,2024-03-01,2024-03-18,DistribuidoraTech SA,Smartphones,133975246.05,60 días,Pagado
+OC-5668,2024-03-01,2024-03-18,MegaComputo SRL,Computación,135426073.14,Contado,Pagado
+OC-5669,2024-03-01,2024-03-13,DistribuidoraTech SA,Tablets,56315303.07,30 días,Pagado
+OC-5670,2024-03-01,2024-03-13,ElectroImport SA,TV/Audio,104073739.26,60 días,Pagado
+OC-5671,2024-03-01,2024-03-17,AccesoriosTotal SRL,Accesorios,57676140.74,30 días,Pagado
+OC-5672,2024-03-01,2024-03-18,MegaComputo SRL,Periféricos,67683618.37,Contado,Pagado
+OC-5673,2024-03-01,2024-03-11,MegaComputo SRL,Almacenamiento,37401234.98,Contado,Pagado
+OC-5674,2024-03-01,2024-03-12,NetSupply SA,Redes,31418196.56,60 días,Pagado
+OC-5675,2024-03-01,2024-03-20,NetSupply SA,Seguridad,21921433.89,30 días,Pagado
+OC-5676,2024-04-01,2024-04-13,DistribuidoraTech SA,Smartphones,144255464.58,Contado,Pagado
+OC-5677,2024-04-01,2024-04-16,MegaComputo SRL,Computación,150599074.01,60 días,Pagado
+OC-5678,2024-04-01,2024-04-06,DistribuidoraTech SA,Tablets,63596688.85,Contado,Pagado
+OC-5679,2024-04-01,2024-04-15,ElectroImport SA,TV/Audio,138407220.22,Contado,Pagado
+OC-5680,2024-04-01,2024-04-09,AccesoriosTotal SRL,Accesorios,53704796.78,Contado,Pagado
+OC-5681,2024-04-01,2024-04-12,MegaComputo SRL,Periféricos,70816500.97,30 días,Pagado
+OC-5682,2024-04-01,2024-04-15,MegaComputo SRL,Almacenamiento,39663844.61,60 días,Pagado
+OC-5683,2024-04-01,2024-04-06,NetSupply SA,Redes,34345456.96,30 días,Pagado
+OC-5684,2024-04-01,2024-04-19,NetSupply SA,Seguridad,25679818.61,30 días,Pagado
+OC-5685,2024-05-01,2024-05-12,DistribuidoraTech SA,Smartphones,138592954.76,60 días,Pagado
+OC-5686,2024-05-01,2024-05-12,MegaComputo SRL,Computación,143009820.0,30 días,Pagado
+OC-5687,2024-05-01,2024-05-12,DistribuidoraTech SA,Tablets,62450301.5,30 días,Pagado
+OC-5688,2024-05-01,2024-05-19,ElectroImport SA,TV/Audio,123824026.76,Contado,Pagado
+OC-5689,2024-05-01,2024-05-08,AccesoriosTotal SRL,Accesorios,59254820.65,Contado,Pagado
+OC-5690,2024-05-01,2024-05-18,MegaComputo SRL,Periféricos,74635944.64,Contado,Pagado
+OC-5691,2024-05-01,2024-05-05,MegaComputo SRL,Almacenamiento,43941503.23,60 días,Pagado
+OC-5692,2024-05-01,2024-05-13,NetSupply SA,Redes,38454357.17,60 días,Pagado
+OC-5693,2024-05-01,2024-05-14,NetSupply SA,Seguridad,30614290.45,60 días,Pagado
+OC-5694,2024-06-01,2024-06-19,DistribuidoraTech SA,Smartphones,163111853.2,30 días,Pagado
+OC-5695,2024-06-01,2024-06-11,MegaComputo SRL,Computación,174314097.05,30 días,Pagado
+OC-5696,2024-06-01,2024-06-13,DistribuidoraTech SA,Tablets,77492008.83,Contado,Pagado
+OC-5697,2024-06-01,2024-06-18,ElectroImport SA,TV/Audio,109271470.07,30 días,Pagado
+OC-5698,2024-06-01,2024-06-12,AccesoriosTotal SRL,Accesorios,61105733.04,60 días,Pagado
+OC-5699,2024-06-01,2024-06-07,MegaComputo SRL,Periféricos,76160519.48,60 días,Pagado
+OC-5700,2024-06-01,2024-06-10,MegaComputo SRL,Almacenamiento,51334865.89,Contado,Pagado
+OC-5701,2024-06-01,2024-06-15,NetSupply SA,Redes,38922883.35,60 días,Pagado
+OC-5702,2024-06-01,2024-06-10,NetSupply SA,Seguridad,30007774.87,60 días,Pagado
+OC-5703,2024-07-01,2024-07-18,DistribuidoraTech SA,Smartphones,176331526.11,60 días,Pagado
+OC-5704,2024-07-01,2024-07-10,MegaComputo SRL,Computación,203562503.28,Contado,Pagado
+OC-5705,2024-07-01,2024-07-05,DistribuidoraTech SA,Tablets,82895213.57,60 días,Pagado
+OC-5706,2024-07-01,2024-07-06,ElectroImport SA,TV/Audio,149479556.53,Contado,Pagado
+OC-5707,2024-07-01,2024-07-14,AccesoriosTotal SRL,Accesorios,70231121.15,30 días,Pagado
+OC-5708,2024-07-01,2024-07-08,MegaComputo SRL,Periféricos,88915343.56,Contado,Pagado
+OC-5709,2024-07-01,2024-07-08,MegaComputo SRL,Almacenamiento,51094883.99,60 días,Pagado
+OC-5710,2024-07-01,2024-07-14,NetSupply SA,Redes,42346316.57,30 días,Pagado
+OC-5711,2024-07-01,2024-07-07,NetSupply SA,Seguridad,32074821.92,60 días,Pagado
+OC-5712,2024-08-01,2024-08-08,DistribuidoraTech SA,Smartphones,142365732.11,30 días,Pagado
+OC-5713,2024-08-01,2024-08-18,MegaComputo SRL,Computación,127046338.15,30 días,Pagado
+OC-5714,2024-08-01,2024-08-14,DistribuidoraTech SA,Tablets,54350922.73,30 días,Pagado
+OC-5715,2024-08-01,2024-08-08,ElectroImport SA,TV/Audio,124026766.48,Contado,Pagado
+OC-5716,2024-08-01,2024-08-19,AccesoriosTotal SRL,Accesorios,53454611.39,30 días,Pagado
+OC-5717,2024-08-01,2024-08-07,MegaComputo SRL,Periféricos,68198489.34,30 días,Pagado
+OC-5718,2024-08-01,2024-08-07,MegaComputo SRL,Almacenamiento,36541650.9,Contado,Pagado
+OC-5719,2024-08-01,2024-08-10,NetSupply SA,Redes,35031142.68,Contado,Pagado
+OC-5720,2024-08-01,2024-08-07,NetSupply SA,Seguridad,29943375.12,Contado,Pagado
+OC-5721,2024-09-01,2024-09-10,DistribuidoraTech SA,Smartphones,157309383.72,60 días,Pagado
+OC-5722,2024-09-01,2024-09-08,MegaComputo SRL,Computación,136236379.6,Contado,Pagado
+OC-5723,2024-09-01,2024-09-09,DistribuidoraTech SA,Tablets,69357581.31,60 días,Pagado
+OC-5724,2024-09-01,2024-09-11,ElectroImport SA,TV/Audio,112853800.75,60 días,Pagado
+OC-5725,2024-09-01,2024-09-15,AccesoriosTotal SRL,Accesorios,44983226.28,30 días,Pagado
+OC-5726,2024-09-01,2024-09-06,MegaComputo SRL,Periféricos,61793560.22,60 días,Pagado
+OC-5727,2024-09-01,2024-09-16,MegaComputo SRL,Almacenamiento,35923078.45,Contado,Pagado
+OC-5728,2024-09-01,2024-09-05,NetSupply SA,Redes,36934550.35,30 días,Pagado
+OC-5729,2024-09-01,2024-09-11,NetSupply SA,Seguridad,27769099.04,Contado,Pagado
+OC-5730,2024-10-01,2024-10-05,DistribuidoraTech SA,Smartphones,161553549.9,60 días,Pagado
+OC-5731,2024-10-01,2024-10-06,MegaComputo SRL,Computación,186050981.7,Contado,Pagado
+OC-5732,2024-10-01,2024-10-14,DistribuidoraTech SA,Tablets,87469771.69,60 días,Pagado
+OC-5733,2024-10-01,2024-10-17,ElectroImport SA,TV/Audio,133131099.87,30 días,Pagado
+OC-5734,2024-10-01,2024-10-11,AccesoriosTotal SRL,Accesorios,69964763.27,30 días,Pagado
+OC-5735,2024-10-01,2024-10-17,MegaComputo SRL,Periféricos,89512499.45,30 días,Pagado
+OC-5736,2024-10-01,2024-10-11,MegaComputo SRL,Almacenamiento,46162950.56,30 días,Pagado
+OC-5737,2024-10-01,2024-10-14,NetSupply SA,Redes,44532163.42,30 días,Pagado
+OC-5738,2024-10-01,2024-10-09,NetSupply SA,Seguridad,36594050.79,30 días,Pagado
+OC-5739,2024-11-01,2024-11-10,DistribuidoraTech SA,Smartphones,252234865.75,30 días,Pagado
+OC-5740,2024-11-01,2024-11-10,MegaComputo SRL,Computación,253902067.75,60 días,Pagado
+OC-5741,2024-11-01,2024-11-06,DistribuidoraTech SA,Tablets,112973580.91,Contado,Pagado
+OC-5742,2024-11-01,2024-11-09,ElectroImport SA,TV/Audio,194178865.91,Contado,Pagado
+OC-5743,2024-11-01,2024-11-14,AccesoriosTotal SRL,Accesorios,93927255.23,60 días,Pagado
+OC-5744,2024-11-01,2024-11-20,MegaComputo SRL,Periféricos,125329962.12,30 días,Pagado
+OC-5745,2024-11-01,2024-11-18,MegaComputo SRL,Almacenamiento,79842021.1,30 días,Pagado
+OC-5746,2024-11-01,2024-11-20,NetSupply SA,Redes,62700350.53,Contado,Pagado
+OC-5747,2024-11-01,2024-11-10,NetSupply SA,Seguridad,46432254.65,60 días,Pagado
+OC-5748,2024-12-01,2024-12-18,DistribuidoraTech SA,Smartphones,196464162.9,30 días,Pagado
+OC-5749,2024-12-01,2024-12-10,MegaComputo SRL,Computación,234379218.89,Contado,Pagado
+OC-5750,2024-12-01,2024-12-09,DistribuidoraTech SA,Tablets,93137633.94,60 días,Pagado
+OC-5751,2024-12-01,2024-12-20,ElectroImport SA,TV/Audio,178248259.68,60 días,Pagado
+OC-5752,2024-12-01,2024-12-12,AccesoriosTotal SRL,Accesorios,75560808.23,30 días,Pagado
+OC-5753,2024-12-01,2024-12-20,MegaComputo SRL,Periféricos,110705389.27,30 días,Pagado
+OC-5754,2024-12-01,2024-12-18,MegaComputo SRL,Almacenamiento,54486513.49,30 días,Pagado
+OC-5755,2024-12-01,2024-12-11,NetSupply SA,Redes,50396216.8,30 días,Pagado
+OC-5756,2024-12-01,2024-12-12,NetSupply SA,Seguridad,42797765.78,60 días,Pagado
+OC-5757,2025-01-01,2025-01-16,DistribuidoraTech SA,Smartphones,251886932.87,30 días,Pagado
+OC-5758,2025-01-01,2025-01-15,MegaComputo SRL,Computación,289404184.75,60 días,Pagado
+OC-5759,2025-01-01,2025-01-17,DistribuidoraTech SA,Tablets,127056209.63,Contado,Pagado
+OC-5760,2025-01-01,2025-01-12,ElectroImport SA,TV/Audio,194110841.13,60 días,Pagado
+OC-5761,2025-01-01,2025-01-09,AccesoriosTotal SRL,Accesorios,90249720.4,60 días,Pagado
+OC-5762,2025-01-01,2025-01-14,MegaComputo SRL,Periféricos,115546825.3,Contado,Pagado
+OC-5763,2025-01-01,2025-01-05,MegaComputo SRL,Almacenamiento,75710050.33,30 días,Pagado
+OC-5764,2025-01-01,2025-01-06,NetSupply SA,Redes,69876228.76,Contado,Pagado
+OC-5765,2025-01-01,2025-01-19,NetSupply SA,Seguridad,49558031.71,Contado,Pagado
+OC-5766,2025-02-01,2025-02-18,DistribuidoraTech SA,Smartphones,248339389.37,Contado,Pagado
+OC-5767,2025-02-01,2025-02-06,MegaComputo SRL,Computación,209292713.42,30 días,Pagado
+OC-5768,2025-02-01,2025-02-19,DistribuidoraTech SA,Tablets,81979717.11,Contado,Pagado
+OC-5769,2025-02-01,2025-02-12,ElectroImport SA,TV/Audio,172622991.8,Contado,Pagado
+OC-5770,2025-02-01,2025-02-16,AccesoriosTotal SRL,Accesorios,80881960.11,Contado,Pagado
+OC-5771,2025-02-01,2025-02-13,MegaComputo SRL,Periféricos,99528445.83,60 días,Pagado
+OC-5772,2025-02-01,2025-02-12,MegaComputo SRL,Almacenamiento,63650590.6,Contado,Pagado
+OC-5773,2025-02-01,2025-02-14,NetSupply SA,Redes,47732087.71,Contado,Pagado
+OC-5774,2025-02-01,2025-02-18,NetSupply SA,Seguridad,44210088.5,Contado,Pagado
+OC-5775,2025-03-01,2025-03-16,DistribuidoraTech SA,Smartphones,272417691.1,Contado,Pagado
+OC-5776,2025-03-01,2025-03-11,MegaComputo SRL,Computación,286594863.84,Contado,Pagado
+OC-5777,2025-03-01,2025-03-08,DistribuidoraTech SA,Tablets,122736946.54,30 días,Pagado
+OC-5778,2025-03-01,2025-03-15,ElectroImport SA,TV/Audio,247404831.21,30 días,Pagado
+OC-5779,2025-03-01,2025-03-13,AccesoriosTotal SRL,Accesorios,105177939.02,Contado,Pagado
+OC-5780,2025-03-01,2025-03-13,MegaComputo SRL,Periféricos,128846440.2,60 días,Pagado
+OC-5781,2025-03-01,2025-03-10,MegaComputo SRL,Almacenamiento,84790939.01,30 días,Pagado
+OC-5782,2025-03-01,2025-03-10,NetSupply SA,Redes,63497039.46,60 días,Pagado
+OC-5783,2025-03-01,2025-03-05,NetSupply SA,Seguridad,55710150.32,Contado,Pagado
+OC-5784,2025-04-01,2025-04-15,DistribuidoraTech SA,Smartphones,297540855.47,60 días,Pagado
+OC-5785,2025-04-01,2025-04-15,MegaComputo SRL,Computación,341500230.49,Contado,Pagado
+OC-5786,2025-04-01,2025-04-10,DistribuidoraTech SA,Tablets,122412822.48,60 días,Pagado
+OC-5787,2025-04-01,2025-04-13,ElectroImport SA,TV/Audio,199769171.08,60 días,Pagado
+OC-5788,2025-04-01,2025-04-09,AccesoriosTotal SRL,Accesorios,109380898.96,60 días,Pagado
+OC-5789,2025-04-01,2025-04-07,MegaComputo SRL,Periféricos,141570634.91,Contado,Pagado
+OC-5790,2025-04-01,2025-04-14,MegaComputo SRL,Almacenamiento,79620502.75,Contado,Pagado
+OC-5791,2025-04-01,2025-04-17,NetSupply SA,Redes,70535909.88,60 días,Pagado
+OC-5792,2025-04-01,2025-04-16,NetSupply SA,Seguridad,63624482.05,Contado,Pagado
+OC-5793,2025-05-01,2025-05-18,DistribuidoraTech SA,Smartphones,435603272.47,Contado,Pagado
+OC-5794,2025-05-01,2025-05-08,MegaComputo SRL,Computación,469611957.46,Contado,Pagado
+OC-5795,2025-05-01,2025-05-12,DistribuidoraTech SA,Tablets,220821722.24,Contado,Pagado
+OC-5796,2025-05-01,2025-05-09,ElectroImport SA,TV/Audio,328962575.52,60 días,Pagado
+OC-5797,2025-05-01,2025-05-10,AccesoriosTotal SRL,Accesorios,182767326.9,30 días,Pagado
+OC-5798,2025-05-01,2025-05-20,MegaComputo SRL,Periféricos,218661050.07,60 días,Pagado
+OC-5799,2025-05-01,2025-05-12,MegaComputo SRL,Almacenamiento,118822180.13,30 días,Pagado
+OC-5800,2025-05-01,2025-05-17,NetSupply SA,Redes,112808160.93,60 días,Pagado
+OC-5801,2025-05-01,2025-05-06,NetSupply SA,Seguridad,86705290.83,60 días,Pagado
+OC-5802,2025-06-01,2025-06-20,DistribuidoraTech SA,Smartphones,399478472.13,Contado,Pagado
+OC-5803,2025-06-01,2025-06-05,MegaComputo SRL,Computación,429062591.52,60 días,Pagado
+OC-5804,2025-06-01,2025-06-06,DistribuidoraTech SA,Tablets,175187252.22,Contado,Pagado
+OC-5805,2025-06-01,2025-06-10,ElectroImport SA,TV/Audio,283828684.3,30 días,Pagado
+OC-5806,2025-06-01,2025-06-13,AccesoriosTotal SRL,Accesorios,146618879.02,30 días,Pagado
+OC-5807,2025-06-01,2025-06-12,MegaComputo SRL,Periféricos,195817809.51,60 días,Pagado
+OC-5808,2025-06-01,2025-06-18,MegaComputo SRL,Almacenamiento,106983953.9,Contado,Pagado
+OC-5809,2025-06-01,2025-06-08,NetSupply SA,Redes,95685050.3,Contado,Pagado
+OC-5810,2025-06-01,2025-06-15,NetSupply SA,Seguridad,78932671.21,60 días,Pagado
+OC-5811,2025-07-01,2025-07-14,DistribuidoraTech SA,Smartphones,452711595.74,30 días,Pagado
+OC-5812,2025-07-01,2025-07-08,MegaComputo SRL,Computación,449521479.2,30 días,Pagado
+OC-5813,2025-07-01,2025-07-08,DistribuidoraTech SA,Tablets,186177352.05,30 días,Pagado
+OC-5814,2025-07-01,2025-07-17,ElectroImport SA,TV/Audio,347061455.64,30 días,Pagado
+OC-5815,2025-07-01,2025-07-08,AccesoriosTotal SRL,Accesorios,160834947.86,60 días,Pagado
+OC-5816,2025-07-01,2025-07-16,MegaComputo SRL,Periféricos,189930631.05,30 días,Pagado
+OC-5817,2025-07-01,2025-07-20,MegaComputo SRL,Almacenamiento,131759830.6,Contado,Pagado
+OC-5818,2025-07-01,2025-07-08,NetSupply SA,Redes,104545129.91,60 días,Pagado
+OC-5819,2025-07-01,2025-07-08,NetSupply SA,Seguridad,89086343.83,Contado,Pagado
+OC-5820,2025-08-01,2025-08-07,DistribuidoraTech SA,Smartphones,294214253.87,Contado,Pagado
+OC-5821,2025-08-01,2025-08-12,MegaComputo SRL,Computación,341533434.54,60 días,Pagado
+OC-5822,2025-08-01,2025-08-06,DistribuidoraTech SA,Tablets,118723925.08,30 días,Pagado
+OC-5823,2025-08-01,2025-08-18,ElectroImport SA,TV/Audio,258657779.26,30 días,Pagado
+OC-5824,2025-08-01,2025-08-10,AccesoriosTotal SRL,Accesorios,118036307.94,60 días,Pagado
+OC-5825,2025-08-01,2025-08-16,MegaComputo SRL,Periféricos,152448284.4,30 días,Pagado
+OC-5826,2025-08-01,2025-08-14,MegaComputo SRL,Almacenamiento,91369839.29,Contado,Pagado
+OC-5827,2025-08-01,2025-08-09,NetSupply SA,Redes,74939082.22,Contado,Pagado
+OC-5828,2025-08-01,2025-08-20,NetSupply SA,Seguridad,61984421.97,60 días,Pagado
+OC-5829,2025-09-01,2025-09-17,DistribuidoraTech SA,Smartphones,339081387.51,Contado,Pagado
+OC-5830,2025-09-01,2025-09-09,MegaComputo SRL,Computación,379122537.14,60 días,Pagado
+OC-5831,2025-09-01,2025-09-19,DistribuidoraTech SA,Tablets,137079645.98,Contado,Pagado
+OC-5832,2025-09-01,2025-09-08,ElectroImport SA,TV/Audio,287697963.69,30 días,Pagado
+OC-5833,2025-09-01,2025-09-05,AccesoriosTotal SRL,Accesorios,134141760.82,30 días,Pagado
+OC-5834,2025-09-01,2025-09-12,MegaComputo SRL,Periféricos,173971255.2,30 días,Pagado
+OC-5835,2025-09-01,2025-09-17,MegaComputo SRL,Almacenamiento,100565689.15,30 días,Pagado
+OC-5836,2025-09-01,2025-09-14,NetSupply SA,Redes,77460964.44,30 días,Pagado
+OC-5837,2025-09-01,2025-09-06,NetSupply SA,Seguridad,81461780.58,30 días,Pagado
+OC-5838,2025-10-01,2025-10-15,DistribuidoraTech SA,Smartphones,396648922.44,60 días,Pagado
+OC-5839,2025-10-01,2025-10-07,MegaComputo SRL,Computación,377437832.18,60 días,Pagado
+OC-5840,2025-10-01,2025-10-14,DistribuidoraTech SA,Tablets,175410186.41,60 días,Pagado
+OC-5841,2025-10-01,2025-10-05,ElectroImport SA,TV/Audio,304293518.4,30 días,Pagado
+OC-5842,2025-10-01,2025-10-06,AccesoriosTotal SRL,Accesorios,155037720.56,30 días,Pagado
+OC-5843,2025-10-01,2025-10-20,MegaComputo SRL,Periféricos,170645747.61,60 días,Pagado
+OC-5844,2025-10-01,2025-10-16,MegaComputo SRL,Almacenamiento,118089753.03,60 días,Pagado
+OC-5845,2025-10-01,2025-10-20,NetSupply SA,Redes,91319325.13,60 días,Pagado
+OC-5846,2025-10-01,2025-10-18,NetSupply SA,Seguridad,87810186.1,60 días,Pagado
+OC-5847,2025-11-01,2025-11-13,DistribuidoraTech SA,Smartphones,466341065.65,Contado,Pagado
+OC-5848,2025-11-01,2025-11-05,MegaComputo SRL,Computación,547154989.23,60 días,Pagado
+OC-5849,2025-11-01,2025-11-20,DistribuidoraTech SA,Tablets,226633658.45,30 días,Pagado
+OC-5850,2025-11-01,2025-11-18,ElectroImport SA,TV/Audio,389728290.29,Contado,Pagado
+OC-5851,2025-11-01,2025-11-18,AccesoriosTotal SRL,Accesorios,190588682.72,60 días,Pagado
+OC-5852,2025-11-01,2025-11-14,MegaComputo SRL,Periféricos,255835503.39,Contado,Pagado
+OC-5853,2025-11-01,2025-11-18,MegaComputo SRL,Almacenamiento,134090645.01,60 días,Pagado
+OC-5854,2025-11-01,2025-11-13,NetSupply SA,Redes,124630429.1,Contado,Pagado
+OC-5855,2025-11-01,2025-11-15,NetSupply SA,Seguridad,90944556.45,60 días,Pagado
+OC-5856,2025-12-01,2025-12-15,DistribuidoraTech SA,Smartphones,478191234.64,60 días,Pagado
+OC-5857,2025-12-01,2025-12-14,MegaComputo SRL,Computación,471653078.82,30 días,Pagado
+OC-5858,2025-12-01,2025-12-07,DistribuidoraTech SA,Tablets,191344752.63,Contado,Pagado
+OC-5859,2025-12-01,2025-12-15,ElectroImport SA,TV/Audio,377484263.09,60 días,Pagado
+OC-5860,2025-12-01,2025-12-08,AccesoriosTotal SRL,Accesorios,206173556.62,Contado,Pagado
+OC-5861,2025-12-01,2025-12-10,MegaComputo SRL,Periféricos,233515565.65,60 días,Pagado
+OC-5862,2025-12-01,2025-12-14,MegaComputo SRL,Almacenamiento,161672086.59,60 días,Pagado
+OC-5863,2025-12-01,2025-12-15,NetSupply SA,Redes,122456257.25,60 días,Pagado
+OC-5864,2025-12-01,2025-12-16,NetSupply SA,Seguridad,93667826.65,60 días,Pagado
