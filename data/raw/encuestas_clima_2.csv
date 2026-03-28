@@ -1,0 +1,11 @@
+id_respuesta,fecha_encuesta,anio,semestre,id_empleado,area,genero,satisfaccion_gral,clima_equipo,liderazgo,condiciones_fisicas,recomendaria_empresa
+ENC-201806-E009,2018-06-01,2018,1,E009,Ventas,F,8.3,8.7,7.8,8.5,Sí
+ENC-201806-E001,2018-06-01,2018,1,E001,Administración,M,8.1,8.3,8.4,8.3,Sí
+ENC-201806-E002,2018-06-01,2018,1,E002,Ventas,F,6.1,7.2,5.8,7.0,Tal vez
+ENC-201806-E004,2018-06-01,2018,1,E004,Ventas,F,6.8,6.1,7.1,7.8,Tal vez
+ENC-201806-E003,2018-06-01,2018,1,E003,Ventas,M,6.6,6.4,6.6,6.4,Tal vez
+ENC-201806-E007,2018-06-01,2018,1,E007,Administración,F,6.3,7.0,6.1,6.1,Tal vez
+ENC-201806-E005,2018-06-01,2018,1,E005,Taller,M,6.5,6.4,6.5,7.4,Tal vez
+ENC-201812-E006,2018-12-01,2018,2,E006,Taller,M,8.7,8.8,9.5,9.1,Sí
+ENC-201812-E009,2018-12-01,2018,2,E009,Ventas,F,5.4,4.4,5.1,5.3,Tal vez
+ENC-201812-E008,2018-12-01,2018,2,E008,Logística,M,6.0,5.2,7.1,7.0,Tal vez
