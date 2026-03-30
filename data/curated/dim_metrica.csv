@@ -1,0 +1,11 @@
+id_metrica,nombre,categoria,subcategoria,unidad,descripcion,derivada
+1,Ingresos,Financiera,Ventas,ARS,Suma de todas las ventas,
+2,Costo Compras,Financiera,Insumos,ARS,Total de compras a proveedores,
+3,Gasto Personal,Financiera,RRHH,ARS,Suma de salarios y bonos,
+4,Consumo Energético,E,Energía,kWh,Consumo total de energía,
+5,Tasa Reciclaje,E,Residuos,%,Porcentaje de residuos reciclados,
+6,Satisfacción Laboral,S,Clima,puntos,Promedio de satisfacción general,
+7,Horas Capacitación,S,Desarrollo,horas,Total de horas de formación,
+8,Días Baja Accidentes,S,Seguridad,días,Días de baja por accidentes,
+9,Intensidad Energética,E,Eficiencia,kWh/ARS,Consumo energético por peso de ingreso,True
+10,Productividad por Empleado,Financiera,Productividad,ARS/empleado,Ingresos por empleado,True
