@@ -213,8 +213,12 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
+<<<<<<< HEAD
 .streamlit/secrets.toml
 
 
 # Entorno virtual
 /env
+=======
+.streamlit/secrets.toml
+>>>>>>> 31a4c51e4ca01a08a3079eb3b0bddd2f7124e180
