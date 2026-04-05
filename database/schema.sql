@@ -1,3 +1,4 @@
+
 -- ============================================
 -- SCHEMA: Sustainable Growth Monitor
 -- Base de datos: technova.duckdb
@@ -20,7 +21,7 @@ CREATE TABLE IF NOT EXISTS dim_tiempo (
 );
 
 -- ------------------------------------------------------------
--- 2. DIMENSIÓN ÁREA
+-- 2. DIMENSIÓN ÁREA (simplificada)
 -- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_area (
     id_area INTEGER PRIMARY KEY,
@@ -28,7 +29,7 @@ CREATE TABLE IF NOT EXISTS dim_area (
 );
 
 -- ------------------------------------------------------------
--- 3. DIMENSIÓN MÉTRICA
+-- 3. DIMENSIÓN MÉTRICA (ampliada)
 -- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_metrica (
     id_metrica INTEGER PRIMARY KEY,
@@ -36,30 +37,31 @@ CREATE TABLE IF NOT EXISTS dim_metrica (
     categoria VARCHAR,
     subcategoria VARCHAR,
     unidad VARCHAR,
-    descripcion VARCHAR
+    formula TEXT,
+    prioridad VARCHAR(10),
+    frecuencia_recomendada VARCHAR(15),
+    tipo_agregacion VARCHAR(10) CHECK (tipo_agregacion IN ('SUM','AVG','LAST')),
+    tendencia_deseada VARCHAR(5) CHECK (tendencia_deseada IN ('UP','DOWN')),
+    descripcion TEXT
 );
 
 -- ------------------------------------------------------------
--- 4. DIMENSIÓN EMPLEADO
+-- 4. DIMENSIÓN OBJETIVO (nueva)
 -- ------------------------------------------------------------
-CREATE TABLE IF NOT EXISTS dim_empleado (
-    id_empleado VARCHAR PRIMARY KEY,
-    nombre VARCHAR,
-    area VARCHAR,
-    genero VARCHAR,
-    fecha_ingreso DATE
+CREATE TABLE IF NOT EXISTS dim_objetivo (
+    id_objetivo INTEGER PRIMARY KEY,
+    id_metrica INTEGER NOT NULL,
+    anio INTEGER NOT NULL,
+    valor_objetivo FLOAT,
+    umbral_verde FLOAT,
+    umbral_amarillo FLOAT,
+    peso_relativo FLOAT,
+    FOREIGN KEY (id_metrica) REFERENCES dim_metrica(id_metrica),
+    UNIQUE(id_metrica, anio)
 );
 
 -- ------------------------------------------------------------
--- 5. DIMENSIÓN PROVEEDOR
--- ------------------------------------------------------------
-CREATE TABLE IF NOT EXISTS dim_proveedor (
-    id_proveedor INTEGER PRIMARY KEY,
-    nombre_proveedor VARCHAR NOT NULL
-);
-
--- ------------------------------------------------------------
--- 6. TABLA DE HECHOS: FACT_MONITOREO
+-- 5. TABLA DE HECHOS
 -- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS fact_monitoreo (
     id_monitoreo INTEGER PRIMARY KEY,
@@ -74,8 +76,27 @@ CREATE TABLE IF NOT EXISTS fact_monitoreo (
 );
 
 -- ------------------------------------------------------------
--- 7. ÍNDICES PARA RENDIMIENTO
+-- 6. DIMENSIONES ADICIONALES (opcionales)
+-- ------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS dim_empleado (
+    id_empleado VARCHAR PRIMARY KEY,
+    nombre VARCHAR,
+    area VARCHAR,
+    genero VARCHAR,
+    fecha_ingreso DATE
+);
+
+CREATE TABLE IF NOT EXISTS dim_proveedor (
+    id_proveedor INTEGER PRIMARY KEY,
+    nombre_proveedor VARCHAR NOT NULL
+);
+
+-- ------------------------------------------------------------
+-- 7. ÍNDICES
 -- ------------------------------------------------------------
 CREATE INDEX IF NOT EXISTS idx_fact_tiempo ON fact_monitoreo(id_tiempo);
 CREATE INDEX IF NOT EXISTS idx_fact_metrica ON fact_monitoreo(id_metrica);
 CREATE INDEX IF NOT EXISTS idx_fact_area ON fact_monitoreo(id_area);
+
+
+########################################################################################################
