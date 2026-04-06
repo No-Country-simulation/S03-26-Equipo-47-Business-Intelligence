@@ -1,12 +1,8 @@
-
 -- ============================================
 -- SCHEMA: Sustainable Growth Monitor
 -- Base de datos: technova.duckdb
 -- ============================================
 
--- ------------------------------------------------------------
--- 1. DIMENSIÓN TIEMPO
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_tiempo (
     id_tiempo INTEGER PRIMARY KEY,
     fecha DATE NOT NULL,
@@ -20,17 +16,11 @@ CREATE TABLE IF NOT EXISTS dim_tiempo (
     es_finde BOOLEAN
 );
 
--- ------------------------------------------------------------
--- 2. DIMENSIÓN ÁREA (simplificada)
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_area (
     id_area INTEGER PRIMARY KEY,
     nombre_area VARCHAR NOT NULL
 );
 
--- ------------------------------------------------------------
--- 3. DIMENSIÓN MÉTRICA (ampliada)
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_metrica (
     id_metrica INTEGER PRIMARY KEY,
     nombre VARCHAR NOT NULL,
@@ -45,9 +35,6 @@ CREATE TABLE IF NOT EXISTS dim_metrica (
     descripcion TEXT
 );
 
--- ------------------------------------------------------------
--- 4. DIMENSIÓN OBJETIVO (nueva)
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_objetivo (
     id_objetivo INTEGER PRIMARY KEY,
     id_metrica INTEGER NOT NULL,
@@ -60,9 +47,6 @@ CREATE TABLE IF NOT EXISTS dim_objetivo (
     UNIQUE(id_metrica, anio)
 );
 
--- ------------------------------------------------------------
--- 5. TABLA DE HECHOS
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS fact_monitoreo (
     id_monitoreo INTEGER PRIMARY KEY,
     id_tiempo INTEGER NOT NULL,
@@ -75,9 +59,6 @@ CREATE TABLE IF NOT EXISTS fact_monitoreo (
     FOREIGN KEY (id_area) REFERENCES dim_area(id_area)
 );
 
--- ------------------------------------------------------------
--- 6. DIMENSIONES ADICIONALES (opcionales)
--- ------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS dim_empleado (
     id_empleado VARCHAR PRIMARY KEY,
     nombre VARCHAR,
@@ -91,12 +72,6 @@ CREATE TABLE IF NOT EXISTS dim_proveedor (
     nombre_proveedor VARCHAR NOT NULL
 );
 
--- ------------------------------------------------------------
--- 7. ÍNDICES
--- ------------------------------------------------------------
 CREATE INDEX IF NOT EXISTS idx_fact_tiempo ON fact_monitoreo(id_tiempo);
 CREATE INDEX IF NOT EXISTS idx_fact_metrica ON fact_monitoreo(id_metrica);
 CREATE INDEX IF NOT EXISTS idx_fact_area ON fact_monitoreo(id_area);
-
-
-########################################################################################################
