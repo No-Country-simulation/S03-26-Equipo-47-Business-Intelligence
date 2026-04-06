@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 id_factura,fecha,anio,mes,tipo_servicio,proveedor,kwh_consumidos,kwh_generados,m3_gas,tarifa_unitaria,monto_ars,es_renovable
 FAC-E-201801,2018-01-01,2018,1,Electricidad Red,EDENOR,8689.9,0.0,0.0,12.8272,111467.55,False
 FAC-E-201802,2018-02-01,2018,2,Electricidad Red,EDENOR,8092.1,0.0,0.0,12.4905,101073.7,False
@@ -358,4 +357,3 @@ FAC-E-202511,2025-11-01,2025,11,Electricidad Red,EDENOR,2666.2,0.0,0.0,357.6377,
 FAC-S-202511,2025-11-01,2025,11,Panel Solar,Autoconsumo,3258.7,3258.7,0.0,0.0,0.0,True
 FAC-E-202512,2025-12-01,2025,12,Electricidad Red,EDENOR,2636.3,0.0,0.0,350.4173,923806.61,False
 FAC-S-202512,2025-12-01,2025,12,Panel Solar,Autoconsumo,3222.1,3222.1,0.0,0.0,0.0,True
->>>>>>> 31a4c51e4ca01a08a3079eb3b0bddd2f7124e180
