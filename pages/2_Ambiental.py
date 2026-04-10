@@ -160,7 +160,12 @@ with tab1:
             df_monthly = df_energia.groupby(['anio', 'mes']).agg({
                 'valor': 'sum'
             }).reset_index()
-            df_monthly['fecha'] = pd.to_datetime(df_monthly[['anio', 'mes']].assign(day=1))
+            df_monthly['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    df_monthly.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
             
             # Gráfico de área con objetivo
             fig = go.Figure()
@@ -312,7 +317,12 @@ with st.container(border=True):
         df_monthly = df_reciclaje.groupby(['anio', 'mes']).agg({
             'valor': 'mean'  # Promedio de la tasa
         }).reset_index()
-        df_monthly['fecha'] = pd.to_datetime(df_monthly[['anio', 'mes']].assign(day=1))
+        df_monthly['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    df_monthly.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
         
         # Gráfico combinado: línea + barras
         fig = go.Figure()

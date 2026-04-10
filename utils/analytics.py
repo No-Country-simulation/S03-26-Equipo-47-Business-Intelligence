@@ -348,7 +348,11 @@ def calcular_intensidad_energetica(df_energia, df_ingresos):
     )
     
     merged['intensidad_energetica'] = merged['energia'] / merged['ingresos']
-    merged['fecha'] = pd.to_datetime(merged[['anio', 'mes']].assign(day=1))
+    merged['fecha'] = pd.to_datetime(merged.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                )
     
     return merged
 
@@ -391,6 +395,11 @@ def calcular_margen_operativo(df_ingresos, df_costos, df_gastos):
     
     # Calcular margen
     merged['margen_operativo'] = ((merged['ingresos'] - merged['costos'] - merged['gastos']) / merged['ingresos']) * 100
-    merged['fecha'] = pd.to_datetime(merged[['anio', 'mes']].assign(day=1))
+    merged['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    merged.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
     
     return merged

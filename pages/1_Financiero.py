@@ -224,7 +224,12 @@ with tab2:
             df_monthly = df_costos.groupby(['anio', 'mes']).agg({
                 'valor': 'sum'
             }).reset_index()
-            df_monthly['fecha'] = pd.to_datetime(df_monthly[['anio', 'mes']].assign(day=1))
+            df_monthly['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    df_monthly.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
             
             # Gráfico de barras
             fig = px.bar(
@@ -281,7 +286,12 @@ with tab3:
             df_monthly = df_gastos.groupby(['anio', 'mes']).agg({
                 'valor': 'sum'
             }).reset_index()
-            df_monthly['fecha'] = pd.to_datetime(df_monthly[['anio', 'mes']].assign(day=1))
+            df_monthly['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    df_monthly.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
             
             # Gráfico de área
             fig = px.area(
@@ -346,7 +356,12 @@ with st.container(border=True):
             df_monthly = df_metrica.groupby(['anio', 'mes', 'metrica']).agg({
                 'valor': 'sum'
             }).reset_index()
-            df_monthly['fecha'] = pd.to_datetime(df_monthly[['anio', 'mes']].assign(day=1))
+            df_monthly['fecha'] = pd.to_datetime(pd.to_datetime(
+                                    df_monthly.rename(columns={
+                                        'anio': 'year',
+                                        'mes': 'month'
+                                    })[['year', 'month']].assign(day=1)
+                                ))
             df_comparativo.append(df_monthly)
     
     if df_comparativo:

@@ -554,11 +554,14 @@ elif analisis_seleccionado == "🎨 Análisis Personalizado":
                     else:
                         significancia = "no alcanza significancia estadística"
                     
+                    corr_str = f"{corr:.3f}" if corr is not None else "N/A"
+                    p_valor_str = f"{p_valor:.4f}" if p_valor is not None else "N/A"
+                    
                     st.info(f"""
                     {emoji} **{descripcion}** ({significancia})
                     
-                    - Coeficiente de correlación: {corr:.3f if corr else 'N/A'}
-                    - P-valor: {p_valor:.4f if p_valor else 'N/A'}
+                    - Coeficiente de correlación: {corr_str}
+                    - P-valor: {p_valor_str}
                     - Número de observaciones: {len(df_merged)}
                     
                     **Recuerda:** La correlación no implica causalidad. Otros factores pueden estar influyendo en ambas variables.
