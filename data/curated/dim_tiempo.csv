@@ -323,6 +323,7 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20190103,2019-01-03,2019,1,3,1,1,January,Thursday,0
 20190104,2019-01-04,2019,1,4,1,1,January,Friday,0
 20190105,2019-01-05,2019,1,5,1,1,January,Saturday,1
+20190106,2019-01-06,2019,1,6,1,1,January,Sunday,1
 20190107,2019-01-07,2019,1,7,1,2,January,Monday,0
 20190108,2019-01-08,2019,1,8,1,2,January,Tuesday,0
 20190109,2019-01-09,2019,1,9,1,2,January,Wednesday,0
@@ -640,12 +641,14 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20200102,2020-01-02,2020,1,2,1,1,January,Thursday,0
 20200103,2020-01-03,2020,1,3,1,1,January,Friday,0
 20200104,2020-01-04,2020,1,4,1,1,January,Saturday,1
+20200105,2020-01-05,2020,1,5,1,1,January,Sunday,1
 20200106,2020-01-06,2020,1,6,1,2,January,Monday,0
 20200107,2020-01-07,2020,1,7,1,2,January,Tuesday,0
 20200108,2020-01-08,2020,1,8,1,2,January,Wednesday,0
 20200109,2020-01-09,2020,1,9,1,2,January,Thursday,0
 20200110,2020-01-10,2020,1,10,1,2,January,Friday,0
 20200111,2020-01-11,2020,1,11,1,2,January,Saturday,1
+20200112,2020-01-12,2020,1,12,1,2,January,Sunday,1
 20200113,2020-01-13,2020,1,13,1,3,January,Monday,0
 20200114,2020-01-14,2020,1,14,1,3,January,Tuesday,0
 20200115,2020-01-15,2020,1,15,1,3,January,Wednesday,0
@@ -934,6 +937,7 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20210107,2021-01-07,2021,1,7,1,1,January,Thursday,0
 20210108,2021-01-08,2021,1,8,1,1,January,Friday,0
 20210109,2021-01-09,2021,1,9,1,1,January,Saturday,1
+20210110,2021-01-10,2021,1,10,1,1,January,Sunday,1
 20210111,2021-01-11,2021,1,11,1,2,January,Monday,0
 20210112,2021-01-12,2021,1,12,1,2,January,Tuesday,0
 20210113,2021-01-13,2021,1,13,1,2,January,Wednesday,0
@@ -1246,12 +1250,14 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20211230,2021-12-30,2021,12,30,4,52,December,Thursday,0
 20211231,2021-12-31,2021,12,31,4,52,December,Friday,0
 20220101,2022-01-01,2022,1,1,1,52,January,Saturday,1
+20220102,2022-01-02,2022,1,2,1,52,January,Sunday,1
 20220103,2022-01-03,2022,1,3,1,1,January,Monday,0
 20220104,2022-01-04,2022,1,4,1,1,January,Tuesday,0
 20220105,2022-01-05,2022,1,5,1,1,January,Wednesday,0
 20220106,2022-01-06,2022,1,6,1,1,January,Thursday,0
 20220107,2022-01-07,2022,1,7,1,1,January,Friday,0
 20220108,2022-01-08,2022,1,8,1,1,January,Saturday,1
+20220109,2022-01-09,2022,1,9,1,1,January,Sunday,1
 20220110,2022-01-10,2022,1,10,1,2,January,Monday,0
 20220111,2022-01-11,2022,1,11,1,2,January,Tuesday,0
 20220112,2022-01-12,2022,1,12,1,2,January,Wednesday,0
@@ -1575,6 +1581,7 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20230105,2023-01-05,2023,1,5,1,1,January,Thursday,0
 20230106,2023-01-06,2023,1,6,1,1,January,Friday,0
 20230107,2023-01-07,2023,1,7,1,1,January,Saturday,1
+20230108,2023-01-08,2023,1,8,1,1,January,Sunday,1
 20230109,2023-01-09,2023,1,9,1,2,January,Monday,0
 20230110,2023-01-10,2023,1,10,1,2,January,Tuesday,0
 20230111,2023-01-11,2023,1,11,1,2,January,Wednesday,0
@@ -1899,6 +1906,7 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20240104,2024-01-04,2024,1,4,1,1,January,Thursday,0
 20240105,2024-01-05,2024,1,5,1,1,January,Friday,0
 20240106,2024-01-06,2024,1,6,1,1,January,Saturday,1
+20240107,2024-01-07,2024,1,7,1,1,January,Sunday,1
 20240108,2024-01-08,2024,1,8,1,2,January,Monday,0
 20240109,2024-01-09,2024,1,9,1,2,January,Tuesday,0
 20240110,2024-01-10,2024,1,10,1,2,January,Wednesday,0
@@ -2230,6 +2238,7 @@ id_tiempo,fecha,anio,mes,dia,trimestre,semana,nombre_mes,dia_semana,es_finde
 20250102,2025-01-02,2025,1,2,1,1,January,Thursday,0
 20250103,2025-01-03,2025,1,3,1,1,January,Friday,0
 20250104,2025-01-04,2025,1,4,1,1,January,Saturday,1
+20250105,2025-01-05,2025,1,5,1,1,January,Sunday,1
 20250106,2025-01-06,2025,1,6,1,2,January,Monday,0
 20250107,2025-01-07,2025,1,7,1,2,January,Tuesday,0
 20250108,2025-01-08,2025,1,8,1,2,January,Wednesday,0
