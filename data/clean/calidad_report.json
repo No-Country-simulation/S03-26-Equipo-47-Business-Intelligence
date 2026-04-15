@@ -7,7 +7,7 @@
     "nulos_por_columna": {
       "id_orden_compra": 0,
       "fecha_emision": 0,
-      "fecha_pago": 449,
+      "fecha_pago": 0,
       "proveedor": 0,
       "categoria": 0,
       "monto_ars": 0,
@@ -43,7 +43,7 @@
       "kwh_generados": 42,
       "m3_gas": 40,
       "tarifa_unitaria": 29,
-      "monto_ars": 24
+      "monto_ars": 20
     }
   },
   {
@@ -181,7 +181,7 @@
     "nulos_por_columna": {
       "id_orden_compra": 0,
       "fecha_emision": 0,
-      "fecha_pago": 449,
+      "fecha_pago": 0,
       "proveedor": 0,
       "categoria": 0,
       "monto_ars": 0,
@@ -217,7 +217,7 @@
       "kwh_generados": 42,
       "m3_gas": 40,
       "tarifa_unitaria": 29,
-      "monto_ars": 24
+      "monto_ars": 20
     }
   },
   {
@@ -356,7 +356,7 @@
     "nulos_por_columna": {
       "id_orden_compra": 0,
       "fecha_emision": 0,
-      "fecha_pago": 449,
+      "fecha_pago": 0,
       "proveedor": 0,
       "categoria": 0,
       "monto_ars": 0,
@@ -417,7 +417,7 @@
     "outliers": {
       "kwh_generados": 42,
       "tarifa_unitaria": 29,
-      "monto_ars": 24
+      "monto_ars": 20
     }
   },
   {

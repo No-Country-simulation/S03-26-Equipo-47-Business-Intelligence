@@ -1,13 +1,13 @@
-id_metrica,nombre,categoria,subcategoria,unidad,formula,prioridad,frecuencia_recomendada,tipo_agregacion,tendencia_deseada,descripcion
-1,Ingresos,Financiera,Ventas,ARS,Suma de ventas,Crítica,Mensual,SUM,UP,Ingresos totales por ventas
-2,Costo Compras,Financiera,Insumos,ARS,Suma de compras,Importante,Mensual,SUM,DOWN,Costos de adquisición
-3,Gasto Personal,Financiera,RRHH,ARS,Suma de nóminas,Importante,Mensual,SUM,DOWN,Salarios y bonificaciones
-4,Consumo Energético,E,Energía,kWh,Suma de kWh consumidos,Crítica,Mensual,SUM,DOWN,Electricidad + gas (convertido)
-5,Tasa Reciclaje,E,Residuos,%,(kg_reciclados/kg_generados)*100,Importante,Mensual,AVG,UP,Porcentaje de residuos reciclados
-6,Satisfacción Laboral,S,Clima,puntos,Promedio encuestas,Importante,Trimestral,AVG,UP,Satisfacción general (1-10)
-7,Horas Capacitación,S,Desarrollo,horas,Suma horas capacitación,Secundaria,Mensual,SUM,UP,Horas de formación
-8,Días Baja Accidentes,S,Seguridad,días,Suma días baja por accidente,Crítica,Mensual,SUM,DOWN,Días perdidos por accidentes
-9,Margen Neto,Financiera,Rentabilidad,%,(Ingresos - Costos - Gastos)/Ingresos * 100,Crítica,Mensual,AVG,UP,Rentabilidad final
-10,Huella Carbono,E,Emisiones,tCO2e,Consumo_energético * factor_emision,Crítica,Mensual,SUM,DOWN,Emisiones estimadas (factor 0.4 kgCO2/kWh)
-11,Intensidad Energética,E,Eficiencia,kWh/ARS,Consumo_energético / Ingresos,Importante,Mensual,AVG,DOWN,Eficiencia energética por peso
-12,Productividad Empleado,Financiera,Productividad,ARS/empl,Ingresos / N° empleados,Importante,Mensual,AVG,UP,Ingreso por empleado
+id_metrica,nombre,categoria,unidad,tipo_agregacion,tendencia_deseada,descripcion
+1,Ingresos,Financiera,ARS,SUM,UP,Suma de ventas
+2,Costo Compras,Financiera,ARS,SUM,DOWN,Suma de compras
+3,Gasto Personal,Financiera,ARS,SUM,DOWN,Suma de nóminas
+4,Consumo Energético,E,kWh,SUM,DOWN,Electricidad + gas
+5,Tasa Reciclaje,E,%,AVG,UP,Reciclado / Generado
+6,Satisfacción Laboral,S,puntos,AVG,UP,Promedio encuestas
+7,Horas Capacitación,S,horas,SUM,UP,Horas de formación
+8,Días Baja Accidentes,S,días,SUM,DOWN,Días perdidos por accidentes
+9,Margen Neto,Financiera,%,AVG,UP,((Ingresos - Costos)/Ingresos)*100
+10,Huella Carbono,E,tCO2e,SUM,DOWN,Consumo * factor emisión
+11,Intensidad Energética,E,kWh/ARS,AVG,DOWN,Consumo / Ingresos
+12,Productividad Empleado,Financiera,ARS/empl,AVG,UP,Ingresos / N° empleados
