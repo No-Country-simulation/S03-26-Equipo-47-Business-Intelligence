@@ -47,6 +47,11 @@ CREATE TABLE IF NOT EXISTS dim_objetivo (
     UNIQUE(id_metrica, anio)
 );
 
+CREATE TABLE IF NOT EXISTS dim_categoria (
+    id_categoria INTEGER PRIMARY KEY,
+    nombre_categoria VARCHAR NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS fact_monitoreo (
     id_monitoreo INTEGER PRIMARY KEY,
     id_tiempo INTEGER NOT NULL,
@@ -75,3 +80,5 @@ CREATE TABLE IF NOT EXISTS dim_proveedor (
 CREATE INDEX IF NOT EXISTS idx_fact_tiempo ON fact_monitoreo(id_tiempo);
 CREATE INDEX IF NOT EXISTS idx_fact_metrica ON fact_monitoreo(id_metrica);
 CREATE INDEX IF NOT EXISTS idx_fact_area ON fact_monitoreo(id_area);
+CREATE INDEX IF NOT EXISTS idx_objetivo_anio ON dim_objetivo(anio);
+
