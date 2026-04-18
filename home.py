@@ -67,7 +67,7 @@ st.markdown("---")
 # ============================================
 
 st.markdown("""
-<div class="highlight-box">
+<div>
     <h2>¿Qué es Sustainable Growth Monitor?</h2>
     <p style="font-size: 18px;">
     Una plataforma integral que combina <strong>inteligencia financiera</strong> y <strong>sostenibilidad ESG</strong> 
@@ -397,14 +397,6 @@ with col4:
     st.caption("Novedades mensuales")
 
 st.markdown("---")
-
-# Información de la base de datos
-DB_FILE = Path("../database/technova.duckdb")
-if DB_FILE.exists():
-    st.success(f"✅ Conectado a base de datos: `{DB_FILE.name}`")
-    st.caption("Los datos se actualizan en tiempo real desde DuckDB")
-else:
-    st.error("❌ Base de datos no encontrada. Por favor, ejecuta `load.py` primero.")
 
 st.markdown("")
 st.caption("🌱 Sustainable Growth Monitor | v1.0 | Desarrollado para PyMEs sostenibles y rentables")
